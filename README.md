@@ -318,4 +318,54 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * No point cloud input, wild point cloud, additional multi-modal input
 
 ## LLMs-based
-
+* **ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance** | [Github](https://github.com/Ivan-Tang-3D/ViewRefer3D)
+  * Zoey Guo, Yiwen Tang, Ray Zhang, Dong Wang, Zhigang Wang, Bin Zhao, Xuelong Li
+  * Shanghai Artificial Intelligence Laboratory, The Chinese University of Hong Kong, Northwestern Polytechnical University
+  * [ICCV2023] https://arxiv.org/pdf/2303.16894
+  * LLMs-based, enriching text description
+* **LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark** | [Github](https://github.com/OpenGVLab/LAMM)
+  * Zhenfei Yin, Jiong Wang, Jianjian Cao, Zhelun Shi, Dingning Liu, Mukai Li, Lu Sheng, Lei Bai, Xiaoshui Huang, Zhiyong Wang, Jing Shao, Wanli Ouyang
+  * Shanghai AI Lab, Beihang University, The Chinese University of Hong Kong (Shenzhen), Fudan University, Dalian University of Technology, The University of Sydney
+  * [NeurIPs2023] https://arxiv.org/abs/2306.06687
+  * LLMs-based, LLM architecture
+* **Transcribe3D: Grounding LLMs Using Transcribed Information for 3D Referential Reasoning with Self-Corrected Finetuning** | 
+  * Jiading Fang, Xiangshan Tan, Shengjie Lin, Hongyuan Mei, Matthew R. Walter
+  * Toyota Technological Institute at Chicago
+  * [CoRL2023] https://openreview.net/forum?id=7j3sdUZMTF
+  * LLMs-based, enriching text description
+* **LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent** | 
+  * Jianing Yang, Xuweiyi Chen, Shengyi Qian, Nikhil Madaan, Madhavan Iyengar, David F. Fouhey, Joyce Chai1
+  *  University of Michigan, New York University
+  * [Arxiv2023] https://arxiv.org/abs/2309.12311
+  * LLMs-based, enriching text description
+* **Mono3DVG: 3D Visual Grounding in Monocular Images** | [Github](https://github.com/ZhanYang-nwpu/Mono3DVG)
+  * Yang Zhan, Yuan Yuan, Zhitong Xiong
+  * Northwestern Polytechnical University, Technical University of Munich
+  * [AAAI2024] https://arxiv.org/pdf/2312.08022
+  * LLMs-based, enriching text description
+* **COT3DREF: Chain-of-Thoughts Data-Efficient 3D Visual Grounding** | [Github](https://github.com/CoT3DRef/COT3DRef)
+  * Eslam Mohamed Bakr, Mohamed Ayman, Mahmoud Ahmed, Habib Slim, Mohamed Elhoseiny
+  * King Abdullah University of Science and Technology
+  * [ICLR2024] https://arxiv.org/abs/2310.06214
+  * LLMs-based, Chain-of-Thoughts, reasoning
+* **Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding** | [Github](https://github.com/CurryYuan/ZSVG3D)
+  * Zhihao Yuan, Jinke Ren, Chun-Mei Feng, Hengshuang Zhao, Shuguang Cui, Zhen Li
+  * The Chinese University of Hong Kong (Shenzhen), A*STAR, The University of Hong Kong
+  * [CVPR2024] https://arxiv.org/abs/2311.15383
+  * LLMs-based, construct text description
+* **3DMIT: 3D MULTI-MODAL INSTRUCTION TUNING FOR SCENE UNDERSTANDING** | [Github](https://github.com/staymylove/3DMIT)
+  * Zeju Li, Chao Zhang, Xiaoyan Wang, Ruilong Ren, Yifan Xu, Ruifei Ma, Xiangde Liu
+  * Beijing University of Posts and Telecommunications, Beijing Digital Native Digital City Research Center, Peking University, Beihang University, Beijing University of Science and Technology
+  * [Arxiv2024] https://arxiv.org/abs/2401.03201
+  * LLMs-based, LLM architecture
+* **DOrA: 3D Visual Grounding with Order-Aware Referring** | 
+  * Tung-Yu Wu, Sheng-Yu Huang, Yu-Chiang Frank Wang
+  * National Taiwan University, NVIDIA
+  * [Arxiv2024] https://arxiv.org/abs/2403.16539
+  * LLMs-based, Chain-of-Thoughts
+* **SCENEVERSE:
+Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github](https://github.com/scene-verse/SceneVerse)
+  * Baoxiong Jia , Yixin Chen , Huanyue Yu, Yan Wang, Xuesong Niu, Tengyu Liu, Qing Li, Siyuan Huang
+  * Beijing Institute for General Artificial Intelligence
+  * [Arxiv2024] https://arxiv.org/abs/2401.09340
+  * A dataset, LLMs-based, LLM architecture
