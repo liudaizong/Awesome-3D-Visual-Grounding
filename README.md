@@ -267,20 +267,55 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * Tsinghua University, Hong Kong University of Science and Technology, Shenzhen University, Harbin Institute of Technology(Shenzhen), Peng Cheng Laboratory
   * [AAAI2024] https://arxiv.org/abs/2305.10714
   * One-stage approach, regression-based, pre-training
-* **PointCloud-Text Matching: Benchmark Datasets and a Baseline** | 
-  * Yanglin Feng, Yang Qin, Dezhong Peng, Hongyuan Zhu, Xi Peng, Peng Hu
-  * Sichuan University, A*STAR
-  * [Arxiv2024] https://arxiv.org/abs/2403.19386
-  * A dataset, One-stage approach, regression-based, pre-training
 * **Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding** | [Github](https://github.com/CurryYuan/ZSVG3D)
   * Zhihao Yuan, Jinke Ren, Chun-Mei Feng, Hengshuang Zhao, Shuguang Cui, Zhen Li
   * The Chinese University of Hong Kong (Shenzhen), A*STAR, The University of Hong Kong
   * [CVPR2024] https://arxiv.org/abs/2311.15383
   * One-stage approach, zero-shot, data construction
+* **PointCloud-Text Matching: Benchmark Datasets and a Baseline** | 
+  * Yanglin Feng, Yang Qin, Dezhong Peng, Hongyuan Zhu, Xi Peng, Peng Hu
+  * Sichuan University, A*STAR
+  * [Arxiv2024] https://arxiv.org/abs/2403.19386
+  * A dataset, One-stage approach, regression-based, pre-training
 
 ## Weakly-supervised
+* **Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding** | [Github](https://github.com/ZzZZCHS/WS-3DVG)
+  * Zehan Wang, Haifeng Huang, Yang Zhao, Linjun Li, Xize Cheng, Yichen Zhu, Aoxiong Yin, Zhou Zhao
+  * Zhejiang University
+  * [ICCV2023] https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Distilling_Coarse-to-Fine_Semantic_Matching_Knowledge_for_Weakly_Supervised_3D_Visual_ICCV_2023_paper.pdf
+  * weakly-supervised, two-stage matching, pseudo label
+* **Weakly-Supervised 3D Visual Grounding based on Visual Linguistic Alignment** | 
+  * Xiaoxu Xu, Yitian Yuan, Qiudan Zhang, Wenhui Wu, Zequn Jie, Lin Ma, Xu Wang
+  * Meituan
+  * [Arxiv2023] https://arxiv.org/abs/2312.09625
+  * weakly-supervised, two-stage matching, multi-modal
 
 ## Other-Modality
+* **Refer-it-in-RGBD: A Bottom-up Approach for 3D Visual Grounding in RGBD Images** | [Github](https://github.com/HaolinLiu97/Refer-it-in-RGBD)
+  * Haolin Liu, Anran Lin, Xiaoguang Han, Lei Yang, Yizhou Yu, Shuguang Cui
+  * CUHK-Shenzhen, Deepwise AI Lab, The University of Hong Kong
+  * [CVPR2021] https://arxiv.org/pdf/2103.07894
+  * No point cloud input, RGB-D image
+* **PATRON: Perspective-Aware Multitask Model for Referring Expression Grounding Using Embodied Multimodal Cues** | 
+  * Md Mofijul Islam, Alexi Gladstone, Tariq Iqbal
+  * University of Virginia
+  * [AAAI2023] https://ojs.aaai.org/index.php/AAAI/article/view/25177
+  * No point cloud input, multi-view
+* **Mono3DVG: 3D Visual Grounding in Monocular Images** | [Github](https://github.com/ZhanYang-nwpu/Mono3DVG)
+  * Yang Zhan, Yuan Yuan, Zhitong Xiong
+  * Northwestern Polytechnical University, Technical University of Munich
+  * [AAAI2024] https://arxiv.org/pdf/2312.08022
+  * No point cloud input, monocular image
+* **EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI** | [Github](https://github.com/OpenRobotLab/EmbodiedScan)
+  * Tai Wang, Xiaohan Mao, Chenming Zhu, Runsen Xu, Ruiyuan Lyu, Peisen Li, Xiao Chen, Wenwei Zhang, Kai Chen, Tianfan Xue, Xihui Liu, Cewu Lu, Dahua Lin, Jiangmiao Pang
+  * Shanghai AI Laboratory, Shanghai Jiao Tong University, The University of Hong Kong, The Chinese University of Hong Kong, Tsinghua University
+  * [CVPR2024] https://arxiv.org/abs/2312.16170
+  * A dataset, No point cloud input, RGB-D image
+* **WildRefer: 3D Object Localization in Large-scale Dynamic Scenes with Multi-modal Visual Data and Natural Language** | 
+  * Zhenxiang Lin, Xidong Peng, Peishan Cong, Yuenan Hou, Xinge Zhu, Sibei Yang, Yuexin Ma
+  * ShanghaiTech University, Shanghai AI Laboratory, The Chinese University of Hong Kong
+  * [Arxiv2023] https://arxiv.org/abs/2304.05645
+  * No point cloud input, wild point cloud, additional multi-modal input
 
 ## LLMs-based
 
