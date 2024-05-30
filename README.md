@@ -202,8 +202,81 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * Two-stage approach, proposal-then-selection, Chain-of-Thoughts
 
 ## Fully-Supervised-One-Stage
-
-
+* **3DVG-Transformer: Relation Modeling for Visual Grounding on Point Clouds** | [Github](https://github.com/zlccccc/3DVG-Transformer)
+  * Lichen Zhao, Daigang Cai, Lu Sheng, Dong Xu
+  * Beihang University, The University of Sydney
+  * [ICCV2021] https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_3DVG-Transformer_Relation_Modeling_for_Visual_Grounding_on_Point_Clouds_ICCV_2021_paper.pdf
+  * One-stage approach, unified detection-interaction
+* **3D-SPS: Single-Stage 3D Visual Grounding via Referred Point Progressive Selection** | [Github](https://github.com/fjhzhixi/3D-SPS)
+  * Junyu Luo, Jiahui Fu, Xianghao Kong, Chen Gao, Haibing Ren, Hao Shen, Huaxia Xia, Si Liu
+  * Beihang University, Meituan Inc.
+  * [CVPR2022] https://openaccess.thecvf.com/content/CVPR2022/papers/Luo_3D-SPS_Single-Stage_3D_Visual_Grounding_via_Referred_Point_Progressive_Selection_CVPR_2022_paper.pdf
+  * One-stage approach, regression-based
+* **Bottom Up Top Down Detection Transformers for Language Grounding in Images and Point Clouds** | [Github](https://github.com/nickgkan/butd_detr)
+  * Ayush Jain, Nikolaos Gkanatsios, Ishita Mediratta, Katerina Fragkiadaki
+  * Carnegie Mellon University, Meta AI
+  * [ECCV2022] https://arxiv.org/abs/2112.08879
+  * One-stage approach, unified detection-interaction
+* **EDA: Explicit Text-Decoupling and Dense Alignment for 3D Visual Grounding** | [Github](https://github.com/yanmin-wu/EDA)
+  * Yanmin Wu, Xinhua Cheng, Renrui Zhang, Zesen Cheng, Jian Zhang
+  * Peking University, The Chinese University of Hong Kong, Peng Cheng Laboratory, Shanghai AI Laboratory
+  * [CVPR2023] https://arxiv.org/abs/2209.14941
+  * One-stage approach, unified detection-interaction, text-decoupling, dense
+* **Dense Object Grounding in 3D Scenes** | 
+  * Wencan Huang, Daizong Liu, Wei Hu
+  * Peking University
+  * [ACMMM2023] https://arxiv.org/abs/2309.02224
+  * One-stage approach, unified detection-interaction, transformer
+* **3DRP-Net: 3D Relative Position-aware Network for 3D Visual Grounding** |
+  * Zehan Wang, Haifeng Huang, Yang Zhao, Linjun Li, Xize Cheng, Yichen Zhu, Aoxiong Yin, Zhou Zhao
+  * Zhejiang University, ByteDance
+  * [EMNLP2023] https://aclanthology.org/2023.emnlp-main.656/
+  * One-stage approach, unified detection-interaction, relative position
+* **LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark** | [Github](https://github.com/OpenLAMM/LAMM)
+  * Zhenfei Yin, Jiong Wang, Jianjian Cao, Zhelun Shi, Dingning Liu, Mukai Li, Lu Sheng, Lei Bai, Xiaoshui Huang, Zhiyong Wang, Jing Shao, Wanli Ouyang
+  * Shanghai AI Lab, Beihang University, The Chinese University of Hong Kong (Shenzhen), Fudan University, Dalian University of Technology, The University of Sydney
+  * [NeurIPs2023] https://arxiv.org/abs/2306.06687
+  * A dataset, One-stage approach, regression-based, multi-task
+* **PATRON: Perspective-Aware Multitask Model for Referring Expression Grounding Using Embodied Multimodal Cues** | 
+  * Md Mofijul Islam, Alexi Gladstone, Tariq Iqbal
+  * University of Virginia
+  * [AAAI2023] https://ojs.aaai.org/index.php/AAAI/article/view/25177
+  * A dataset, One-stage approach, multi-task, multi-modal
+* **Toward Fine-Grained 3D Visual Grounding through Referring Textual Phrases** | [Github](https://github.com/CurryYuan/PhraseRefer)
+  * Zhihao Yuan, Xu Yan, Zhuo Li, Xuhao Li, Yao Guo, Shuguang Cui, Zhen Li
+  * CUHK-Shenzhen, Shanghai Jiao Tong University
+  * [Arxiv2023] https://arxiv.org/abs/2207.01821
+  * A dataset, One-stage approach, unified detection-interaction
+* **A Unified Framework for 3D Point Cloud Visual Grounding** | [Github](https://github.com/Leon1207/3DRefTR)
+  * Haojia Lin, Yongdong Luo, Xiawu Zheng, Lijiang Li, Fei Chao, Taisong Jin, Donghao Luo, Yan Wang, Liujuan Cao, Rongrong Ji
+  * Xiamen University, Peng Cheng Laboratory
+  * [Arxiv2023] https://arxiv.org/abs/2308.11887
+  * One-stage approach, unified detection-interaction, superpoint
+* **Uni3DL: Unified Model for 3D and Language Understanding** |
+  * Xiang Li, Jian Ding, Zhaoyang Chen, Mohamed Elhoseiny
+  * King Abdullah University of Science and Technology, Ecole Polytechnique
+  * [Arxiv2023] https://arxiv.org/abs/2312.03026
+  * One-stage approach, regression-based, multi-task
+* **3D-STMN: Dependency-Driven Superpoint-Text Matching Network for End-to-End 3D Referring Expression Segmentation** | [Github](https://github.com/sosppxo/3D-STMN)
+  * Changli Wu, Yiwei Ma, Qi Chen, Haowei Wang, Gen Luo, Jiayi Ji, Xiaoshuai Sun
+  * Xiamen University
+  * [AAAI2024] https://arxiv.org/abs/2308.16632
+  * One-stage approach, unified detection-interaction, superpoint
+* **Vision-Language Pre-training with Object Contrastive Learning for 3D Scene Understanding** | 
+  * Taolin Zhang, Sunan He, Tao Dai, Zhi Wang, Bin Chen, Shu-Tao Xia
+  * Tsinghua University, Hong Kong University of Science and Technology, Shenzhen University, Harbin Institute of Technology(Shenzhen), Peng Cheng Laboratory
+  * [AAAI2024] https://arxiv.org/abs/2305.10714
+  * One-stage approach, regression-based, pre-training
+* **PointCloud-Text Matching: Benchmark Datasets and a Baseline** | 
+  * Yanglin Feng, Yang Qin, Dezhong Peng, Hongyuan Zhu, Xi Peng, Peng Hu
+  * Sichuan University, A*STAR
+  * [Arxiv2024] https://arxiv.org/abs/2403.19386
+  * A dataset, One-stage approach, regression-based, pre-training
+* **Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding** | [Github](https://github.com/CurryYuan/ZSVG3D)
+  * Zhihao Yuan, Jinke Ren, Chun-Mei Feng, Hengshuang Zhao, Shuguang Cui, Zhen Li
+  * The Chinese University of Hong Kong (Shenzhen), A*STAR, The University of Hong Kong
+  * [CVPR2024] https://arxiv.org/abs/2311.15383
+  * One-stage approach, zero-shot, data construction
 
 ## Weakly-supervised
 
