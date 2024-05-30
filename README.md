@@ -48,6 +48,11 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * The Chinese University of Hong Kong (Shenzhen), Southern University of Science and Technology
   * [ICCV2021] https://openaccess.thecvf.com/content/ICCV2021/papers/Yuan_InstanceRefer_Cooperative_Holistic_Understanding_for_Visual_Grounding_on_Point_Clouds_ICCV_2021_paper.pdf
   * Two-stage approach, proposal-then-selection, segmentation
+* **SAT: 2D Semantics Assisted Training for 3D Visual Grounding** | [Github](https://github.com/zyang-ur/SAT)
+  * Zhengyuan Yang, Songyang Zhang, Liwei Wang, Jiebo Luo
+  * University of Rochester, The Chinese University of Hong Kong
+  * [ICCV2021] https://arxiv.org/pdf/2105.11450
+  * Two-stage approach, proposal-then-selection, additional multi-modal input
 * **Text-Guided Graph Neural Networks for Referring 3D Instance Segmentation** | [Github](https://github.com/hanhung/TGNN)
   * Pin-Hao Huang, Han-Hung Lee, Hwann-Tzong Chen, Tyng-Luh Liu
   * Academia Sinica, National Tsing Hua University, Taiwan AI Labs, Aeolus Robotics
@@ -67,7 +72,12 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * Daigang Cai, Lichen Zhao, Jing Zhang, Lu Sheng, Dong Xu
   * Beihang University, The University of Sydney
   * [CVPR2022] https://openaccess.thecvf.com/content/CVPR2022/papers/Cai_3DJCG_A_Unified_Framework_for_Joint_Dense_Captioning_and_Visual_CVPR_2022_paper.pdf
-  * Two-stage approach, proposal-then-selection, joint 3D captioning and grounding 
+  * Two-stage approach, proposal-then-selection, joint 3D captioning and grounding
+* **Multi-View Transformer for 3D Visual Grounding** | [Github](https://github.com/sega-hsj/MVT-3DVG)
+  * Shijia Huang, Yilun Chen, Jiaya Jia, Liwei Wang
+  * The Chinese University of Hong Kong
+  * [CVPR2022] https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Multi-View_Transformer_for_3D_Visual_Grounding_CVPR_2022_paper.pdf
+  * Two-stage approach, proposal-then-selection, additional multi-view input 
 * **3DRefTransformer: Fine-Grained Object Identification in Real-World Scenes Using Natural Language** | 
   * Ahmed Abdelreheem, Ujjwal Upadhyay, Ivan Skorokhodov, Rawan Al Yahya, Jun Chen, Mohamed Elhoseiny
   * King Abdullah University of Science and Technology
@@ -83,6 +93,11 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * PSL Research University, IIIT Hyderabad
   * [NeurIPS2022] https://arxiv.org/abs/2211.09646
   * Two-stage approach, proposal-then-selection, spatial relation
+* **Look Around and Refer: 2D Synthetic Semantics Knowledge Distillation for 3D Visual Grounding** | [Github](https://github.com/eslambakr/LAR-Look-Around-and-Refer)
+  * Eslam Mohamed Bakr, Yasmeen Alsaedy, Mohamed Elhoseiny
+  * King Abdullah University of Science and Technology
+  * [NeurIPS2022] https://arxiv.org/abs/2211.14241
+  * Two-stage approach, proposal-then-selection, additional multi-modal input
 * **Context-aware Alignment and Mutual Masking for 3D-Language Pre-training** | [Github](https://github.com/leolyj/3D-VLP)
   * Zhao Jin, Munawar Hayat, Yuwei Yang, Yulan Guo, Yinjie Lei
   * Sichuan University, Monash University, Sun Yat-sen University
@@ -107,12 +122,22 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * Dave Zhenyu Chen, Ronghang Hu, Xinlei Chen, Matthias Nießner, Angel X. Chang
   * Technical University of Munich, Meta AI, Simon Fraser University
   * [ICCV2023] https://arxiv.org/abs/2212.00836
-  * Two-stage approach, proposal-then-selection, joint 3D captioning and grounding 
+  * Two-stage approach, proposal-then-selection, joint 3D captioning and grounding
+* **ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance** | [Github](https://github.com/Ivan-Tang-3D/ViewRefer3D)
+  * Zoey Guo, Yiwen Tang, Ray Zhang, Dong Wang, Zhigang Wang, Bin Zhao, Xuelong Li
+  * Shanghai Artificial Intelligence Laboratory, The Chinese University of Hong Kong, Northwestern Polytechnical University
+  * [ICCV2023] https://arxiv.org/pdf/2303.16894
+  * Two-stage approach, proposal-then-selection, additional multi-view input
 * **ARKitSceneRefer: Text-based Localization of Small Objects in Diverse Real-World 3D Indoor Scenes** | [Github](https://github.com/ku-nlp/ARKitSceneRefer)
   * Shunya Kato, Shuhei Kurita, Chenhui Chu, Sadao Kurohashi
   * Kyoto University, RIKEN
   * [EMNLP2023] https://aclanthology.org/2023.findings-emnlp.56.pdf
   * A dataset, Two-stage approach, proposal-then-selection, small object
+* **Reimagining 3D Visual Grounding: Instance Segmentation and Transformers for Fragmented Point Cloud Scenarios** | 
+  * Zehan Tan, Weidong Yang, Zhiwei Wang
+  * Fudan University, GREE ELECTRIC APPLIANCES
+  * [ACMMMAsia2023] https://dl.acm.org/doi/10.1145/3595916.3626405
+  * Two-stage approach, proposal-then-selection, additional multi-modal input
 * **HAM: Hierarchical Attention Model with High Performance for 3D Visual Grounding** | 
   * Jiaming Chen, Weixin Luo, Xiaolin Wei, Lin Ma, and Wei Zhang
   * Shandong University, Meituan
@@ -123,6 +148,11 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * ETH Zurich
   * [Arxiv2023] https://arxiv.org/abs/2309.04561
   * Two-stage approach, proposal-then-selection, segmentation
+* **ScanERU: Interactive 3D Visual Grounding based on Embodied Reference Understanding** | 
+  * Ziyang Lu, Yunqiang Pei, Guoqing Wang, Yang Yang, Zheng Wang, Heng Tao Shen
+  * University of Electronic Science and Technology of China
+  * [Arxiv2023] https://arxiv.org/abs/2303.13186
+  * Two-stage approach, proposal-then-selection, additional multi-modal input
 * **ScanEnts3D: Exploiting Phrase-to-3D-Object Correspondences for Improved Visio-Linguistic Models in 3D Scenes** | [Github](https://github.com/ScanEnts3D/ScanEnts3D.github.io)
   * Ahmed Abdelreheem, Kyle Olszewski, Hsin-Ying Lee, Peter Wonka, Panos Achlioptas
   * King Abdullah University of Science and Technology, Snap Inc.
@@ -138,28 +168,37 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * CASIA, Tencent PCG, The Chinese University of Hong Kong, Ministry of Education, Alibaba Group, Zhejiang Linkheer Science And Technology Co., Ltd., University of Chinese Academy of Sciences, ShanghaiTech University
   * [NeurIPS2024] https://papers.nips.cc/paper_files/paper/2023/hash/9b91ee0da3bcd61905fcd89e770168fc-Abstract-Conference.html
   * Two-stage approach, proposal-then-selection
+* **Cross3DVG: Cross-Dataset 3D Visual Grounding on Different RGB-D Scans** | [Github](https://github.com/ATR-DBI/Cross3DVG)
+  * Taiki Miyanishi, Daichi Azuma, Shuhei Kurita, Motoaki Kawanabe
+  * ATR, Kyoto University, RIKEN AIP
+  * [3DV2024] https://arxiv.org/abs/2305.13876
+  * Two-stage approach, proposal-then-selection, additional multi-modal input
 * **A Transformer-based Framework for Visual Grounding on 3D Point Clouds** | 
   * Ali Solgi, Mehdi Ezoji
   * Babol Noshirvani University of Technology
   * [AISP2024] https://ieeexplore.ieee.org/abstract/document/10475280/
   * Two-stage approach, proposal-then-selection
-* **DOrA: 3D Visual Grounding with Order-Aware Referring** | 
-  * Tung-Yu Wu, Sheng-Yu Huang, Yu-Chiang Frank Wang
-  * National Taiwan University, NVIDIA
-  * [Arxiv2024] https://arxiv.org/abs/2403.16539
-  * Two-stage approach, proposal-then-selection, Chain-of-Thoughts
-* **MiKASA: Multi-Key-Anchor & Scene-Aware Transformer for 3D Visual Grounding** | 
-  * Chun-Peng Chang, Shaoxiang Wang, Alain Pagani, Didier Stricker
-  * DFKI Augmented Vision
-  * [Arxiv2024] https://arxiv.org/abs/2403.03077
-  * Two-stage approach, proposal-then-selection, spatial relation
 * **SCENEVERSE:
 Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github](https://github.com/scene-verse/SceneVerse)
   * Baoxiong Jia , Yixin Chen , Huanyue Yu, Yan Wang, Xuesong Niu, Tengyu Liu, Qing Li, Siyuan Huang
   * Beijing Institute for General Artificial Intelligence
   * [Arxiv2024] https://arxiv.org/abs/2401.09340
   * A dataset, Two-stage approach, proposal-then-selection
-
+* **MiKASA: Multi-Key-Anchor & Scene-Aware Transformer for 3D Visual Grounding** | 
+  * Chun-Peng Chang, Shaoxiang Wang, Alain Pagani, Didier Stricker
+  * DFKI Augmented Vision
+  * [Arxiv2024] https://arxiv.org/abs/2403.03077
+  * Two-stage approach, proposal-then-selection, spatial relation
+* **SeCG: Semantic-Enhanced 3D Visual Grounding via Cross-modal Graph Attention** | [Github](https://github.com/onmyoji-xiao/3dvg_SeCG)
+  * Feng Xiao, Hongbin Xu, Qiuxia Wu, Wenxiong Kang
+  * South China University of Technology
+  * [Arxiv2024] https://arxiv.org/abs/2403.08182
+  * Two-stage approach, proposal-then-selection, additional multi-modal input
+* **DOrA: 3D Visual Grounding with Order-Aware Referring** | 
+  * Tung-Yu Wu, Sheng-Yu Huang, Yu-Chiang Frank Wang
+  * National Taiwan University, NVIDIA
+  * [Arxiv2024] https://arxiv.org/abs/2403.16539
+  * Two-stage approach, proposal-then-selection, Chain-of-Thoughts
 
 ## Weakly-supervised
 
