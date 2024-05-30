@@ -21,13 +21,14 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
 ```
 
 **Table of Contents**
-- [Fully-supervised approach](#Fully-supervised)
+- [Fully-supervised two-stage approach](#Fully-Supervised-Two-Stage)
+- [Fully-supervised one-stage approach](#Fully-Supervised-One-Stage)
 - [Weakly-supervised approach](#Weakly-supervised)
 - [Approaches using No Point Cloud Input](#Other-Modality)
 - [Approaches using LLMs](#LLMs-based)
 ---
 
-## Fully-supervised
+## Fully-Supervised-Two-Stage
 * **ScanRefer: 3D Object Localization in RGB-D Scans using Natural Language** | [Github](https://github.com/daveredrum/ScanRefer)
   * Dave Zhenyu Chen, Angel X. Chang, Matthias Nießner
   * Technical University of Munich, Simon Fraser University
@@ -199,6 +200,10 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * National Taiwan University, NVIDIA
   * [Arxiv2024] https://arxiv.org/abs/2403.16539
   * Two-stage approach, proposal-then-selection, Chain-of-Thoughts
+
+## Fully-Supervised-One-Stage
+
+
 
 ## Weakly-supervised
 
