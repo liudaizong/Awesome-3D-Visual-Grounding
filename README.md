@@ -48,6 +48,16 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * The Chinese University of Hong Kong (Shenzhen), Southern University of Science and Technology
   * [ICCV2021] https://openaccess.thecvf.com/content/ICCV2021/papers/Yuan_InstanceRefer_Cooperative_Holistic_Understanding_for_Visual_Grounding_on_Point_Clouds_ICCV_2021_paper.pdf
   * Two-stage approach, proposal-then-selection, segmentation
+* **Text-Guided Graph Neural Networks for Referring 3D Instance Segmentation** | [Github](https://github.com/hanhung/TGNN)
+  * Pin-Hao Huang, Han-Hung Lee, Hwann-Tzong Chen, Tyng-Luh Liu
+  * Academia Sinica, National Tsing Hua University, Taiwan AI Labs, Aeolus Robotics
+  * [AAAI2021] https://ojs.aaai.org/index.php/AAAI/article/view/16253
+  * Two-stage approach, proposal-then-selection, segmentation
+* **LanguageRefer: Spatial-Language Model for 3D Visual Grounding** | [Github](https://github.com/rohjunha/language-refer)
+  * Junha Roh, Karthik Desingh, Ali Farhadi, Dieter Fox
+  * University of Washington
+  * [CoRL2021] https://openreview.net/pdf?id=dgQdvPZnH-t
+  * Two-stage approach, proposal-then-selection, spatial embedding, positional encoding
 
 ## Weakly-supervised
 
