@@ -82,17 +82,43 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * Shizhe Chen, Pierre-Louis Guhur, Makarand Tapaswi, Cordelia Schmid, Ivan Laptev
   * PSL Research University, IIIT Hyderabad
   * [NeurIPS2022] https://arxiv.org/abs/2211.09646
-  * Two-stage approach, proposal-then-selection, spatial relation 
+  * Two-stage approach, proposal-then-selection, spatial relation
+* **Context-aware Alignment and Mutual Masking for 3D-Language Pre-training** | [Github](https://github.com/leolyj/3D-VLP)
+  * Zhao Jin, Munawar Hayat, Yuwei Yang, Yulan Guo, Yinjie Lei
+  * Sichuan University, Monash University, Sun Yat-sen University
+  * [CVPR2023] https://openaccess.thecvf.com/content/CVPR2023/papers/Jin_Context-Aware_Alignment_and_Mutual_Masking_for_3D-Language_Pre-Training_CVPR_2023_paper.pdf
+  * Two-stage approach, proposal-then-selection, pre-training
+* **NS3D: Neuro-Symbolic Grounding of 3D Objects and Relations** | [Github](https://github.com/joyhsu0504/NS3D)
+  * Joy Hsu, Jiayuan Mao, Jiajun Wu
+  * Stanford University, Massachusetts Institute of Technology
+  * [CVPR2023] https://arxiv.org/abs/2303.13483
+  * Two-stage approach, proposal-then-selection, semantic learning
 * **3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment** | [Github](https://github.com/3d-vista/3D-VisTA)
   * Ziyu Zhu, Xiaojian Ma, Yixin Chen, Zhidong Deng, Siyuan Huang, Qing Li
   * Tsinghua University, BIGAI
   * [ICCV2023] https://arxiv.org/pdf/2308.04352
   * Two-stage approach, proposal-then-selection, pre-training 
-* **3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment** | [Github](https://github.com/3d-vista/3D-VisTA)
-  * Ziyu Zhu, Xiaojian Ma, Yixin Chen, Zhidong Deng, Siyuan Huang, Qing Li
-  * Tsinghua University, BIGAI
-  * [ICCV2023] https://arxiv.org/pdf/2308.04352
-  * Two-stage approach, proposal-then-selection, pre-training 
+* **ARKitSceneRefer: Text-based Localization of Small Objects in Diverse Real-World 3D Indoor Scenes** | [Github](https://github.com/ku-nlp/ARKitSceneRefer)
+  * Shunya Kato, Shuhei Kurita, Chenhui Chu, Sadao Kurohashi
+  * Kyoto University, RIKEN
+  * [EMNLP2023] https://aclanthology.org/2023.findings-emnlp.56.pdf
+  * A dataset, Two-stage approach, proposal-then-selection, small object
+* **HAM: Hierarchical Attention Model with High Performance for 3D Visual Grounding** | 
+  * Jiaming Chen, Weixin Luo, Xiaolin Wei, Lin Ma, and Wei Zhang
+  * Shandong University, Meituan
+  * [Arxiv2023] https://arxiv.org/abs/2210.12513
+  * One-stage approach, proposal-then-selection, point detection
+* **COT3DREF: Chain-of-Thoughts Data-Efficeint 3D Visual Grounding** | [Github](https://github.com/CoT3DRef/COT3DRef)
+  * Eslam Mohamed Bakr, Mohamed Ayman, Mahmoud Ahmed, Habib Slim, Mohamed Elhoseiny
+  * King Abdullah University of Science and Technology
+  * [ICLR2024] https://arxiv.org/abs/2310.06214
+  * Two-stage approach, proposal-then-selection, Chain-of-Thoughts 
+* **Exploiting Contextual Objects and Relations for 3D Visual Grounding** | [Github](https://github.com/yangli18/CORE-3DVG)
+  * Li Yang, Chunfeng Yuan, Ziqi Zhang, Zhongang Qi, Yan Xu, Wei Liu, Ying Shan, Bing Li, Weiping Yang, Peng Li, Yan Wang, Weiming Hu
+  * CASIA, Tencent PCG, The Chinese University of Hong Kong, Ministry of Education, Alibaba Group, Zhejiang Linkheer Science And Technology Co., Ltd., University of Chinese Academy of Sciences, ShanghaiTech University
+  * [NeurIPS2024] https://papers.nips.cc/paper_files/paper/2023/hash/9b91ee0da3bcd61905fcd89e770168fc-Abstract-Conference.html
+  * Two-stage approach, proposal-then-selection
+
 
 
 ## Weakly-supervised
