@@ -37,6 +37,11 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * Stanford University, King Abdullah University of Science and Technology
   * [ECCV2020] https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460409.pdf
   * A dataset, two-stage approach, proposal-then-selection
+* **Free-form Description Guided 3D Visual Graph Network for Object Grounding in Point Cloud** | [Github](https://github.com/PNXD/FFL-3DOG)
+  * Mingtao Feng, Zhen Li, Qi Li, Liang Zhang, XiangDong Zhang, Guangming Zhu, Hui Zhang, Yaonan Wang, Ajmal Mian
+  * Xidian University, Hunan University, The University of Western Australia
+  * [ICCV2021] https://openaccess.thecvf.com/content/ICCV2021/supplemental/Feng_Free-Form_Description_Guided_ICCV_2021_supplemental.pdf
+  * Two-stage approach, proposal-then-selection, grapg neural network
 
 ## Weakly-supervised
 
