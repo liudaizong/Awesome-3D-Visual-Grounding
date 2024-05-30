@@ -1,22 +1,21 @@
-# Awesome-LVLM-Attack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A **continual** collection of papers related to safety of Multimodal Large Language Models (MLLMs).
+# Awesome-3D-Visual-Grounding [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+A **continual** collection of papers related to Text-guided 3D Visual Grounding (T-3DVG).
 
-LMM hallucination😵 refers to occasional instances where LMMs generate content that appears plausible but deviates from or conflicts with the provided image. 
-LMMs tend to rely more on their own parametric knowledge than on provided visual features, causing them to respond with guesses and generate multimodal hallucinations.
+Text-guided 3D visual grounding (T-3DVG) aims to locate a specific object that semantically corresponds to a language query from a complicated 3D scene, has drawn increasing attention in the 3D research community over the past few years.
+T-3DVG presents great potential and challenges due to its closer proximity to the real world and the complexity of data collection and 3D point cloud source processing.
 
-In the MLLM community, we've developed methods for detecting, evaluating, and mitigating hallucinations👍.
+In the T-3DVG community, we've summarized existing T-3DVG methods in our survey paper👍.
 
 
-
-> If you find some important work missed, it would be super helpful to let me know (`isXinLiu@gmail.com`). Thanks!
+> If you find some important work missed, it would be super helpful to let me know (`dzliu@stu.pku.edu.cn`). Thanks!
 
 > If you find our survey useful for your research, please consider citing:
 
 ```
-@article{liu:arxiv2024,
-  title={Safety of Multimodal Large Language Models on Images and Text},
-  author={Liu, Xin and Zhu, Yichen and Lan, Yunshi and Yang, Chao and Qiao, Yu},
-  journal={arXiv preprint arXiv:2402.00357},
+@article{liu2024survet,
+  title={A Survey on Text-guided 3D Visual Grounding: Elements, Recent Advances, and Future Directions},
+  author={Liu, Daizong and Liu, Yang and Huang, Wencan and Hu, Wei},
+  journal={arXiv preprint arXiv},
   year={2024}
 }
 ```
