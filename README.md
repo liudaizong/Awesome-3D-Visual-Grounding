@@ -23,6 +23,7 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
 **Table of Contents**
 - [Fully-supervised approach](#Fully-supervised)
 - [Weakly-supervised approach](#Weakly-supervised)
+- [Approaches using No Point Cloud Input](#Other-Modality)
 - [Approaches using LLMs](#LLMs-based)
 ---
 
@@ -42,9 +43,15 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * Xidian University, Hunan University, The University of Western Australia
   * [ICCV2021] https://openaccess.thecvf.com/content/ICCV2021/papers/Feng_Free-Form_Description_Guided_3D_Visual_Graph_Network_for_Object_Grounding_ICCV_2021_paper.pdf
   * Two-stage approach, proposal-then-selection, graph neural network
+* **InstanceRefer: Cooperative Holistic Understanding for Visual Grounding on Point Clouds through Instance Multi-level Contextual Referring** | [Github](https://github.com/CurryYuan/InstanceRefer)
+  * Zhihao Yuan, Xu Yan, Yinghong Liao, Ruimao Zhang, Sheng Wang, Zhen Li, Shuguang Cui
+  * The Chinese University of Hong Kong (Shenzhen), Southern University of Science and Technology
+  * [ICCV2021] https://openaccess.thecvf.com/content/ICCV2021/papers/Yuan_InstanceRefer_Cooperative_Holistic_Understanding_for_Visual_Grounding_on_Point_Clouds_ICCV_2021_paper.pdf
+  * Two-stage approach, proposal-then-selection, segmentation
 
 ## Weakly-supervised
 
+## Other-Modality
 
 ## LLMs-based
 
