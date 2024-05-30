@@ -21,11 +21,11 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
 ```
 
 **Table of Contents**
-- [Fully-supervised: Two-stage approach](#Fully-supervised: Two-stage approach)
-- [Fully-supervised: One-stage approach](#Fully-supervised: One-stage approach)
-- [Fully-supervised: Other approach](#Fully-supervised: Other approach)
-- [Weakly-supervised approach](#Weakly-supervised approach)
-- [Approaches using LLMs](#Approaches using LLMs)
+- [Fully-supervised: Two-stage approach](#Fully-supervised:Two-stageapproach)
+- [Fully-supervised: One-stage approach](#Fully-supervised:One-stageapproach)
+- [Fully-supervised: Other approach](#Fully-supervised:Otherapproach)
+- [Weakly-supervised approach](#Weakly-supervisedapproach)
+- [Approaches using LLMs](#ApproachesusingLLMs)
 ---
 
 ## Fully-supervised: Two-stage approach
