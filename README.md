@@ -58,6 +58,42 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * University of Washington
   * [CoRL2021] https://openreview.net/pdf?id=dgQdvPZnH-t
   * Two-stage approach, proposal-then-selection, spatial embedding, positional encoding
+* **TransRefer3D: Entity-and-Relation Aware Transformer for Fine-Grained 3D Visual Grounding** | [Github](https://github.com/luo-junyu/TransRefer3D)
+  * Dailan He, Yusheng Zhao, Junyu Luo, Tianrui Hui, Shaofei Huang, Aixi Zhang, Si Liu
+  * Beihang University, Chinese Academy of Sciences, Alibaba Group
+  * [ACMMM2021] https://arxiv.org/abs/2108.02388
+  * Two-stage approach, proposal-then-selection, entity-and-relation
+* **3DJCG: A Unified Framework for Joint Dense Captioning and Visual Grounding on 3D Point Clouds** | [Github](https://github.com/zlccccc/3DVL_Codebase)
+  * Daigang Cai, Lichen Zhao, Jing Zhang, Lu Sheng, Dong Xu
+  * Beihang University, The University of Sydney
+  * [CVPR2022] https://openaccess.thecvf.com/content/CVPR2022/papers/Cai_3DJCG_A_Unified_Framework_for_Joint_Dense_Captioning_and_Visual_CVPR_2022_paper.pdf
+  * Two-stage approach, proposal-then-selection, joint 3D captioning and grounding 
+* **3DRefTransformer: Fine-Grained Object Identification in Real-World Scenes Using Natural Language** | 
+  * Ahmed Abdelreheem, Ujjwal Upadhyay, Ivan Skorokhodov, Rawan Al Yahya, Jun Chen, Mohamed Elhoseiny
+  * King Abdullah University of Science and Technology
+  * [WACV2022] https://openaccess.thecvf.com/content/WACV2022/papers/Abdelreheem_3DRefTransformer_Fine-Grained_Object_Identification_in_Real-World_Scenes_Using_Natural_Language_WACV_2022_paper.pdf
+  * Two-stage approach, proposal-then-selection
+* **D3Net: A Unified Speaker-Listener Architecture for 3D Dense Captioning and Visual Grounding** | [Github](https://github.com/daveredrum/D3Net)
+  * Dave Zhenyu Chen, Qirui Wu, Matthias Nießner, Angel X. Chang
+  * Technical University of Munich, Simon Fraser University
+  * [ECCV2022] https://arxiv.org/abs/2112.01551
+  * Two-stage approach, proposal-then-selection, joint 3D captioning and grounding 
+* **Language Conditioned Spatial Relation Reasoning for 3D Object Grounding** | [Github](https://github.com/cshizhe/vil3dref)
+  * Shizhe Chen, Pierre-Louis Guhur, Makarand Tapaswi, Cordelia Schmid, Ivan Laptev
+  * PSL Research University, IIIT Hyderabad
+  * [NeurIPS2022] https://arxiv.org/abs/2211.09646
+  * Two-stage approach, proposal-then-selection, spatial relation 
+* **3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment** | [Github](https://github.com/3d-vista/3D-VisTA)
+  * Ziyu Zhu, Xiaojian Ma, Yixin Chen, Zhidong Deng, Siyuan Huang, Qing Li
+  * Tsinghua University, BIGAI
+  * [ICCV2023] https://arxiv.org/pdf/2308.04352
+  * Two-stage approach, proposal-then-selection, pre-training 
+* **3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment** | [Github](https://github.com/3d-vista/3D-VisTA)
+  * Ziyu Zhu, Xiaojian Ma, Yixin Chen, Zhidong Deng, Siyuan Huang, Qing Li
+  * Tsinghua University, BIGAI
+  * [ICCV2023] https://arxiv.org/pdf/2308.04352
+  * Two-stage approach, proposal-then-selection, pre-training 
+
 
 ## Weakly-supervised
 
