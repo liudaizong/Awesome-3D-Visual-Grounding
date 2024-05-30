@@ -27,22 +27,19 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
 ---
 
 ## Fully-supervised
-* **Learning To See But Forgetting To Follow: Visual Instruction Tuning Makes LLMs More Prone To Jailbreak Attacks** | [Github](https://github.com/gpantaz/vl_jailbreak)
-  * Georgios Pantazopoulos, Amit Parekh, Malvina Nikandrou, Alessandro Suglia
-  * Heriot-Watt University
-  * [2024.05.07] https://arxiv.org/abs/2405.04403
-  * A finding
+* **ScanRefer: 3D Object Localization in RGB-D Scans using Natural Language** | [Github](https://github.com/daveredrum/ScanRefer)
+  * Dave Zhenyu Chen, Angel X. Chang, Matthias Nießner
+  * Technical University of Munich, Simon Fraser University
+  * [ECCV2020] https://arxiv.org/abs/1912.08830
+  * A dataset, two-stage approach, proposal-then-selection
+* **ReferIt3D: Neural Listeners for Fine-Grained 3D Object Identification in Real-World Scenes** | [Github](https://github.com/referit3d/referit3d)
+  * Panos Achlioptas, Ahmed Abdelreheem, Fei Xia, Mohamed Elhoseiny, Leonidas Guibas
+  * Stanford University, King Abdullah University of Science and Technology
+  * [ECCV2020] https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460409.pdf
+  * A dataset, two-stage approach, proposal-then-selection
 
 ## Weakly-supervised
-* **Learning To See But Forgetting To Follow: Visual Instruction Tuning Makes LLMs More Prone To Jailbreak Attacks** | [Github](https://github.com/gpantaz/vl_jailbreak)
-  * Georgios Pantazopoulos, Amit Parekh, Malvina Nikandrou, Alessandro Suglia
-  * Heriot-Watt University
-  * [2024.05.07] https://arxiv.org/abs/2405.04403
-  * A finding
+
 
 ## LLMs-based
-* **Learning To See But Forgetting To Follow: Visual Instruction Tuning Makes LLMs More Prone To Jailbreak Attacks** | [Github](https://github.com/gpantaz/vl_jailbreak)
-  * Georgios Pantazopoulos, Amit Parekh, Malvina Nikandrou, Alessandro Suglia
-  * Heriot-Watt University
-  * [2024.05.07] https://arxiv.org/abs/2405.04403
-  * A finding
+
