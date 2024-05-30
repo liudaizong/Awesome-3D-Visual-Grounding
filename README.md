@@ -21,19 +21,42 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
 ```
 
 **Table of Contents**
-- [Fully-supervised: Two-stage approach](#Evaluation)
-- [Fully-supervised: One-stage approach](#Evaluation)
-- [Fully-supervised: Other approach](#Evaluation)
-- [Weakly-supervised approach](#Evaluation)
-- [Approaches using LLMs](#Evaluation)
+- [Fully-supervised: Two-stage approach](#Fully-supervised: Two-stage approach)
+- [Fully-supervised: One-stage approach](#Fully-supervised: One-stage approach)
+- [Fully-supervised: Other approach](#Fully-supervised: Other approach)
+- [Weakly-supervised approach](#Weakly-supervised approach)
+- [Approaches using LLMs](#Approaches using LLMs)
 ---
 
-## Evaluation
-* **Privacy-Aware Visual Language Models**
-  * Laurens Samson, Nimrod Barazani, Sennay Ghebreab, Yuki M. Asano
-  * University of Amsterdam
-  * [2024.05.27] https://arxiv.org/abs/2405.17423
-  * Defense, Benchmark
+## Fully-supervised: Two-stage approach
+* **Learning To See But Forgetting To Follow: Visual Instruction Tuning Makes LLMs More Prone To Jailbreak Attacks** | [Github](https://github.com/gpantaz/vl_jailbreak)
+  * Georgios Pantazopoulos, Amit Parekh, Malvina Nikandrou, Alessandro Suglia
+  * Heriot-Watt University
+  * [2024.05.07] https://arxiv.org/abs/2405.04403
+  * A finding
+
+## Fully-supervised: One-stage approach
+* **Learning To See But Forgetting To Follow: Visual Instruction Tuning Makes LLMs More Prone To Jailbreak Attacks** | [Github](https://github.com/gpantaz/vl_jailbreak)
+  * Georgios Pantazopoulos, Amit Parekh, Malvina Nikandrou, Alessandro Suglia
+  * Heriot-Watt University
+  * [2024.05.07] https://arxiv.org/abs/2405.04403
+  * A finding
+
+## Fully-supervised: Other approach
+* **Learning To See But Forgetting To Follow: Visual Instruction Tuning Makes LLMs More Prone To Jailbreak Attacks** | [Github](https://github.com/gpantaz/vl_jailbreak)
+  * Georgios Pantazopoulos, Amit Parekh, Malvina Nikandrou, Alessandro Suglia
+  * Heriot-Watt University
+  * [2024.05.07] https://arxiv.org/abs/2405.04403
+  * A finding
+
+## Weakly-supervised approach
+* **Learning To See But Forgetting To Follow: Visual Instruction Tuning Makes LLMs More Prone To Jailbreak Attacks** | [Github](https://github.com/gpantaz/vl_jailbreak)
+  * Georgios Pantazopoulos, Amit Parekh, Malvina Nikandrou, Alessandro Suglia
+  * Heriot-Watt University
+  * [2024.05.07] https://arxiv.org/abs/2405.04403
+  * A finding
+
+## Approaches using LLMs
 * **Learning To See But Forgetting To Follow: Visual Instruction Tuning Makes LLMs More Prone To Jailbreak Attacks** | [Github](https://github.com/gpantaz/vl_jailbreak)
   * Georgios Pantazopoulos, Amit Parekh, Malvina Nikandrou, Alessandro Suglia
   * Heriot-Watt University
