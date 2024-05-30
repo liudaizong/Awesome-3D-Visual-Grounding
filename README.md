@@ -41,7 +41,7 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * Mingtao Feng, Zhen Li, Qi Li, Liang Zhang, XiangDong Zhang, Guangming Zhu, Hui Zhang, Yaonan Wang, Ajmal Mian
   * Xidian University, Hunan University, The University of Western Australia
   * [ICCV2021] https://openaccess.thecvf.com/content/ICCV2021/supplemental/Feng_Free-Form_Description_Guided_ICCV_2021_supplemental.pdf
-  * Two-stage approach, proposal-then-selection, grapg neural network
+  * Two-stage approach, proposal-then-selection, graph neural network
 
 ## Weakly-supervised
 
