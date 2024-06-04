@@ -353,6 +353,11 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * The Chinese University of Hong Kong (Shenzhen), A*STAR, The University of Hong Kong
   * [CVPR2024] https://arxiv.org/abs/2311.15383
   * LLMs-based, construct text description
+* **Naturally Supervised 3D Visual Grounding with Language-Regularized Concept Learners** | [Github](https://github.com/chunfeng3364/LARC)
+  * Chun Feng, Joy Hsu, Weiyu Liu, Jiajun Wu
+  * Stanford University
+  * [CVPR2024] https://arxiv.org/abs/2404.19696
+  * LLMs-based, language constraint
 * **3DMIT: 3D MULTI-MODAL INSTRUCTION TUNING FOR SCENE UNDERSTANDING** | [Github](https://github.com/staymylove/3DMIT)
   * Zeju Li, Chao Zhang, Xiaoyan Wang, Ruilong Ren, Yifan Xu, Ruifei Ma, Xiangde Liu
   * Beijing University of Posts and Telecommunications, Beijing Digital Native Digital City Research Center, Peking University, Beihang University, Beijing University of Science and Technology
