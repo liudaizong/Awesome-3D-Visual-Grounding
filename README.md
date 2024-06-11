@@ -15,7 +15,7 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
 @article{liu2024survey,
   title={A Survey on Text-guided 3D Visual Grounding: Elements, Recent Advances, and Future Directions},
   author={Liu, Daizong and Liu, Yang and Huang, Wencan and Hu, Wei},
-  journal={arXiv preprint arXiv},
+  journal={arXiv preprint arXiv:2406.05785},
   year={2024}
 }
 ```
