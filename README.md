@@ -272,6 +272,11 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * The Chinese University of Hong Kong (Shenzhen), A*STAR, The University of Hong Kong
   * [CVPR2024] https://arxiv.org/abs/2311.15383
   * One-stage approach, zero-shot, data construction
+* **G3-LQ: Marrying Hyperbolic Alignment with Explicit Semantic-Geometric Modeling for 3D Visual Grounding** | 
+  * Yuan Wang, Yali Li, Shengjin Wang
+  * Tsinghua University, Beijing National Research Center for Information Science and Technology 
+  * [CVPR2024] https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_G3-LQ_Marrying_Hyperbolic_Alignment_with_Explicit_Semantic-Geometric_Modeling_for_3D_CVPR_2024_paper.pdf
+  * One-stage approach, regression-based
 * **PointCloud-Text Matching: Benchmark Datasets and a Baseline** | 
   * Yanglin Feng, Yang Qin, Dezhong Peng, Hongyuan Zhu, Xi Peng, Peng Hu
   * Sichuan University, A*STAR
