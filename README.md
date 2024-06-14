@@ -194,6 +194,11 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * Nanjing University of Science and Technology, Northwestern Polytechnical University, Nanjing University
   * [CVPR2024] https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Multi-Attribute_Interactions_Matter_for_3D_Visual_Grounding_CVPR_2024_paper.pdf
   * Two-stage approach, proposal-then-selection, additional multi-modal input
+* **Viewpoint-Aware Visual Grounding in 3D Scenes** | 
+  * Xiangxi Shi, Zhonghua Wu, Stefan Lee
+  * Oregon State University, SenseTime Research
+  * [CVPR2024] https://openaccess.thecvf.com/content/CVPR2024/papers/Shi_Viewpoint-Aware_Visual_Grounding_in_3D_Scenes_CVPR_2024_paper.pdf
+  * Two-stage approach, proposal-then-selection, additional multi-modal input
 * **SCENEVERSE: Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github](https://github.com/scene-verse/SceneVerse)
   * Baoxiong Jia , Yixin Chen , Huanyue Yu, Yan Wang, Xuesong Niu, Tengyu Liu, Qing Li, Siyuan Huang
   * Beijing Institute for General Artificial Intelligence
