@@ -179,17 +179,16 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * Babol Noshirvani University of Technology
   * [AISP2024] https://ieeexplore.ieee.org/abstract/document/10475280/
   * Two-stage approach, proposal-then-selection
-* **SCENEVERSE:
-Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github](https://github.com/scene-verse/SceneVerse)
+* **MiKASA: Multi-Key-Anchor & Scene-Aware Transformer for 3D Visual Grounding** | 
+  * Chun-Peng Chang, Shaoxiang Wang, Alain Pagani, Didier Stricker
+  * DFKI Augmented Vision
+  * [CVPR2024] https://arxiv.org/abs/2403.03077
+  * Two-stage approach, proposal-then-selection, spatial relation
+* **SCENEVERSE: Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github](https://github.com/scene-verse/SceneVerse)
   * Baoxiong Jia , Yixin Chen , Huanyue Yu, Yan Wang, Xuesong Niu, Tengyu Liu, Qing Li, Siyuan Huang
   * Beijing Institute for General Artificial Intelligence
   * [Arxiv2024] https://arxiv.org/abs/2401.09340
   * A dataset, Two-stage approach, proposal-then-selection
-* **MiKASA: Multi-Key-Anchor & Scene-Aware Transformer for 3D Visual Grounding** | 
-  * Chun-Peng Chang, Shaoxiang Wang, Alain Pagani, Didier Stricker
-  * DFKI Augmented Vision
-  * [Arxiv2024] https://arxiv.org/abs/2403.03077
-  * Two-stage approach, proposal-then-selection, spatial relation
 * **SeCG: Semantic-Enhanced 3D Visual Grounding via Cross-modal Graph Attention** | [Github](https://github.com/onmyoji-xiao/3dvg_SeCG)
   * Feng Xiao, Hongbin Xu, Qiuxia Wu, Wenxiong Kang
   * South China University of Technology
