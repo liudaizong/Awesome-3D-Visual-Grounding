@@ -186,8 +186,13 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * Two-stage approach, proposal-then-selection, spatial relation
 * **Towards CLIP-driven Language-free 3D Visual Grounding via 2D-3D Relational Enhancement and Consistency** | [Github](https://github.com/xibi777/3DLFVG)
   * Yuqi Zhang, Han Luo, Yinjie Lei
-  *  Sichuan University
+  * Sichuan University
   * [CVPR2024] https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Towards_CLIP-driven_Language-free_3D_Visual_Grounding_via_2D-3D_Relational_Enhancement_CVPR_2024_paper.pdf
+  * Two-stage approach, proposal-then-selection, additional multi-modal input
+* **Multi-Attribute Interactions Matter for 3D Visual Grounding** | [Github](https://github.com/volcanoXC/MA2TransVG)
+  * Can Xu, Yuehui Han, Rui Xu, Le Hui, Jin Xie, Jian Yang
+  * Nanjing University of Science and Technology, Northwestern Polytechnical University, Nanjing University
+  * [CVPR2024] https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Multi-Attribute_Interactions_Matter_for_3D_Visual_Grounding_CVPR_2024_paper.pdf
   * Two-stage approach, proposal-then-selection, additional multi-modal input
 * **SCENEVERSE: Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github](https://github.com/scene-verse/SceneVerse)
   * Baoxiong Jia , Yixin Chen , Huanyue Yu, Yan Wang, Xuesong Niu, Tengyu Liu, Qing Li, Siyuan Huang
