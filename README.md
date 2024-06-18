@@ -6,6 +6,8 @@ T-3DVG presents great potential and challenges due to its closer proximity to th
 
 In the T-3DVG community, we've summarized existing T-3DVG methods in our survey paper👍.
 
+[A Survey on Text-guided 3D Visual Grounding: Elements, Recent Advances, and Future Directions](https://arxiv.org/abs/2406.05785).
+
 
 > If you find some important work missed, it would be super helpful to let me know (`dzliu@stu.pku.edu.cn`). Thanks!
 
