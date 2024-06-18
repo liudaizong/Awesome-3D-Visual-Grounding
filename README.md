@@ -214,6 +214,11 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * National Taiwan University, NVIDIA
   * [Arxiv2024] https://arxiv.org/abs/2403.16539
   * Two-stage approach, proposal-then-selection, Chain-of-Thoughts
+* **Dual Attribute-Spatial Relation Alignment for 3D Visual Grounding** | 
+  * Yue Xu, Kaizhi Yang, Jiebo Luo, Xuejin Chen
+  * University of Science and Technology of China, University of Rochester
+  * [Arxiv2024] https://arxiv.org/abs/2406.08907
+  * Two-stage approach, proposal-then-selection, spatial embedding
 
 ## Fully-Supervised-One-Stage
 * **3DVG-Transformer: Relation Modeling for Visual Grounding on Point Clouds** | [Github](https://github.com/zlccccc/3DVG-Transformer)
