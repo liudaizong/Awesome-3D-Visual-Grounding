@@ -401,6 +401,11 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * Beijing Institute for General Artificial Intelligence
   * [Arxiv2024] https://arxiv.org/abs/2401.09340
   * A dataset, LLMs-based, LLM architecture
+* **Empowering 3D Visual Grounding with Reasoning Capabilities** | [Github](https://github.com/ZCMax/ScanReason)
+  * Chenming Zhu, Tai Wang, Wenwei Zhang, Kai Chen, Xihui Liu
+  * The University of Hong Kong, Shanghai AI Laboratory
+  * [ECCV2024] https://arxiv.org/abs/2407.01525
+  * LLMs-based, LLM architecture, A dataset
 
 ## Outdoor-Scenes
 * **Talk2Radar: Bridging Natural Language with 4D mmWave Radar for 3D Referring Expression Comprehension** | [Github](https://github.com/GuanRunwei/Talk2Radar)
