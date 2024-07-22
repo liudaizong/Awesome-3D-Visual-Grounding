@@ -304,6 +304,11 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * Sichuan University, A*STAR
   * [Arxiv2024] https://arxiv.org/abs/2403.19386
   * A dataset, One-stage approach, regression-based, pre-training
+* **PD-TPE: Parallel Decoder with Text-guided Position Encoding for 3D Visual Grounding** | 
+  * Chenshu Hou, Liang Peng, Xiaopei Wu, Wenxiao Wang, Xiaofei He
+  *  Zhejiang University, FABU Inc.
+  * [Arxiv2024] https://arxiv.org/abs/2407.14491
+  * A dataset, One-stage approach #
 * **Multi-branch Collaborative Learning Network for 3D Visual Grounding** | [Github](https://github.com/qzp2018/MCLN)
   * Zhipeng Qian, Yiwei Ma, Zhekai Lin, Jiayi Ji, Xiawu Zheng, Xiaoshuai Sun, Rongrong Ji
   * Xiamen University
