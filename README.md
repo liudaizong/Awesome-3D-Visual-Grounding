@@ -412,6 +412,11 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * Beijing Institute for General Artificial Intelligence
   * [Arxiv2024] https://arxiv.org/abs/2401.09340
   * A dataset, LLMs-based, LLM architecture
+* **Language-Image Models with 3D Understanding** | 
+  * Jang Hyun Cho, Boris Ivanovic, Yulong Cao, Edward Schmerling, Yue Wang, Xinshuo Weng, Boyi Li, Yurong You, Philipp Krähenbühl, Yan Wang, Marco Pavone
+  * UT Austin, NVIDIA Research
+  * [Arxiv2024] https://arxiv.org/abs/2405.03685
+  * A dataset, LLMs-based #
 * **Empowering 3D Visual Grounding with Reasoning Capabilities** | [Github](https://github.com/ZCMax/ScanReason)
   * Chenming Zhu, Tai Wang, Wenwei Zhang, Kai Chen, Xihui Liu
   * The University of Hong Kong, Shanghai AI Laboratory
