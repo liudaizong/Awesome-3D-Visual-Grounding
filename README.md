@@ -412,7 +412,7 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * Beijing Institute for General Artificial Intelligence
   * [Arxiv2024] https://arxiv.org/abs/2401.09340
   * A dataset, LLMs-based, LLM architecture
-* **Language-Image Models with 3D Understanding** | 
+* **Language-Image Models with 3D Understanding** | [Github](https://janghyuncho.github.io/Cube-LLM)
   * Jang Hyun Cho, Boris Ivanovic, Yulong Cao, Edward Schmerling, Yue Wang, Xinshuo Weng, Boyi Li, Yurong You, Philipp Krähenbühl, Yan Wang, Marco Pavone
   * UT Austin, NVIDIA Research
   * [Arxiv2024] https://arxiv.org/abs/2405.03685
@@ -424,6 +424,11 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * LLMs-based, LLM architecture, A dataset
 
 ## Outdoor-Scenes
+* **Language Prompt for Autonomous Driving** | [Github](https://github.com/wudongming97/Prompt4Driving)
+  * Dongming Wu, Wencheng Han, Tiancai Wang, Yingfei Liu, Xiangyu Zhang, Jianbing Shen
+  * Beijing Institute of Technology, University of Macau, MEGVII Technology, Beijing Academy of Artificial Intelligence
+  * [Arxiv2023] https://arxiv.org/abs/2309.04379
+  * Ourdoor scene, autonomous driving #
 * **Talk2Radar: Bridging Natural Language with 4D mmWave Radar for 3D Referring Expression Comprehension** | [Github](https://github.com/GuanRunwei/Talk2Radar)
   * Runwei Guan, Ruixiao Zhang, Ningwei Ouyang, Jianan Liu, Ka Lok Man, Xiaohao Cai, Ming Xu, Jeremy Smith, Eng Gee Lim, Yutao Yue, Hui Xiong
   * JITRI, University of Liverpool, University of Southampton, Vitalent Consulting, Xi’an Jiaotong-Liverpool University, HKUST (GZ)
