@@ -417,6 +417,11 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * UT Austin, NVIDIA Research
   * [Arxiv2024] https://arxiv.org/abs/2405.03685
   * A dataset, LLMs-based #
+* **Task-oriented Sequential Grounding in 3D Scenes** | [Github](https://sg-3d.github.io/)
+  * Zhuofan Zhang, Ziyu Zhu, Pengxiang Li, Tengyu Liu, Xiaojian Ma, Yixin Chen, Baoxiong Jia, Siyuan Huang, Qing Li
+  *  BIGA, Tsinghua Universit, 3Beijing Institute of Technology
+  * [Arxiv2024] https://arxiv.org/abs/2408.04034
+  * A dataset, LLMs-based #
 * **Empowering 3D Visual Grounding with Reasoning Capabilities** | [Github](https://github.com/ZCMax/ScanReason)
   * Chenming Zhu, Tai Wang, Wenwei Zhang, Kai Chen, Xihui Liu
   * The University of Hong Kong, Shanghai AI Laboratory
