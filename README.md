@@ -222,6 +222,11 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * University of Science and Technology of China, University of Rochester
   * [Arxiv2024] https://arxiv.org/abs/2406.08907
   * Two-stage approach, proposal-then-selection, spatial embedding
+* **R2G: Reasoning to Ground in 3D Scenes** | 
+  * Yixuan Li, Zan Wang, Wei Liang
+  * n/a
+  * [Arxiv2024] https://arxiv.org/abs/2408.13499
+  * Two-stage approach, proposal-then-selection, scene graph reasoning
 
 ## Fully-Supervised-One-Stage
 * **3DVG-Transformer: Relation Modeling for Visual Grounding on Point Clouds** | [Github](https://github.com/zlccccc/3DVG-Transformer)
