@@ -26,6 +26,7 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
 - [Fully-supervised two-stage approach](#Fully-Supervised-Two-Stage)
 - [Fully-supervised one-stage approach](#Fully-Supervised-One-Stage)
 - [Weakly-supervised approach](#Weakly-supervised)
+- [Semi-supervised approach](#Semi-supervised)
 - [Approaches using No Point Cloud Input](#Other-Modality)
 - [Approaches using LLMs](#LLMs-based)
 - [Approaches tackling Outdoor Scenes](#Outdoor-Scenes)
@@ -337,6 +338,18 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * Meituan
   * [Arxiv2023] https://arxiv.org/abs/2312.09625
   * weakly-supervised, two-stage matching, multi-modal
+
+## Semi-supervised
+* **Cross-Task Knowledge Transfer for Semi-supervised Joint 3D Grounding and Captioning** | 
+  * Yang Liu, Daizong Liu, Zongming Guo, Wei Hu
+  * Peking University
+  * [ACMMM2024] https://openreview.net/forum?id=OmymuhXWcn
+  * semi-supervised, cross-task teacher-student framework, joint 3D grounding and captioning
+* **Bayesian Self-Training for Semi-Supervised 3D Segmentation** | 
+  * Ozan Unal, Christos Sakaridis, Luc Van Gool
+  * ETH Zurich, Huawei Technologies, KU Leuven, INSAIT
+  * [ECCV2024] https://arxiv.org/abs/2409.08102
+  * semi-supervised, self-training
 
 ## Other-Modality
 * **Refer-it-in-RGBD: A Bottom-up Approach for 3D Visual Grounding in RGBD Images** | [Github](https://github.com/HaolinLiu97/Refer-it-in-RGBD)
