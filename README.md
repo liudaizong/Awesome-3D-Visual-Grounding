@@ -359,6 +359,11 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * ShanghaiTech University, Shanghai AI Laboratory, The Chinese University of Hong Kong
   * [Arxiv2023] https://arxiv.org/abs/2304.05645
   * No point cloud input, wild point cloud, additional multi-modal input
+* **HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models** | 
+  * Vineet Bhat, Prashanth Krishnamurthy, Ramesh Karri, Farshad Khorrami
+  * New York University
+  * [Arxiv2024] https://arxiv.org/abs/2409.10419
+  * No point cloud input, RGB image #
 
 ## LLMs-based
 * **ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance** | [Github](https://github.com/Ivan-Tang-3D/ViewRefer3D)
