@@ -317,9 +317,14 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * A dataset, One-stage approach, regression-based, pre-training
 * **PD-TPE: Parallel Decoder with Text-guided Position Encoding for 3D Visual Grounding** | 
   * Chenshu Hou, Liang Peng, Xiaopei Wu, Wenxiao Wang, Xiaofei He
-  *  Zhejiang University, FABU Inc.
+  * Zhejiang University, FABU Inc.
   * [Arxiv2024] https://arxiv.org/abs/2407.14491
   * A dataset, One-stage approach #
+* **Grounding 3D Scene Affordance From Egocentric Interactions** | 
+  * Cuiyu Liu, Wei Zhai, Yuhang Yang, Hongchen Luo, Sen Liang, Yang Cao, Zheng-Jun Zha
+  * University of Science and Technology of China, Northeastern University
+  * [Arxiv2024] https://arxiv.org/abs/2409.19650
+  * A dataset, One-stage approach, video #
 * **Multi-branch Collaborative Learning Network for 3D Visual Grounding** | [Github](https://github.com/qzp2018/MCLN)
   * Zhipeng Qian, Yiwei Ma, Zhekai Lin, Jiayi Ji, Xiawu Zheng, Xiaoshuai Sun, Rongrong Ji
   * Xiamen University
@@ -455,6 +460,11 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * University of Illinois Urbana-Champaign, Carnegie Mellon University
   * [Arxiv2024] https://arxiv.org/abs/2409.03757
   * Foundation model #
+* **Robin3D: Improving 3D Large Language Model via Robust Instruction Tuning** | 
+  * Weitai Kang, Haifeng Huang, Yuzhang Shang, Mubarak Shah, Yan Yan
+  * Illinois Institute of Technology, Zhejiang University, University of Central Florida, University of Illinois at Chicago
+  * [Arxiv2024] https://arxiv.org/abs/2410.00255
+  * LLMs-based #
 * **Empowering 3D Visual Grounding with Reasoning Capabilities** | [Github](https://github.com/ZCMax/ScanReason)
   * Chenming Zhu, Tai Wang, Wenwei Zhang, Kai Chen, Xihui Liu
   * The University of Hong Kong, Shanghai AI Laboratory
