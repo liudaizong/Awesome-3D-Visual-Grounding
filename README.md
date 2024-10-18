@@ -470,7 +470,7 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * The University of Hong Kong, Shanghai AI Laboratory
   * [ECCV2024] https://arxiv.org/abs/2407.01525
   * LLMs-based, LLM architecture, A dataset
-* **VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding** | 
+* **VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding** | [Github](https://github.com/OpenRobotLab/VLM-Grounder)
   * Runsen Xu, Zhiwei Huang, Tai Wang, Yilun Chen, Jiangmiao Pang, Dahua Lin
   * The Chinese University of Hong Kong, Zhejiang University, Shanghai AI Laboratory, Centre for Perceptual and Interactive Intelligence
   * [CoRL2024] https://arxiv.org/abs/2410.13860
