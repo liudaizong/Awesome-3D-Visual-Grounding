@@ -330,7 +330,11 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * Xiamen University
   * [ECCV2024] https://arxiv.org/abs/2407.05363
   * One-stage approach, regression-based
-
+* **Joint Top-Down and Bottom-Up Frameworks for 3D Visual Grounding** | 
+  * Yang Liu, Daizong Liu, Wei Hu
+  * Peking University
+  * [ICPR2024] https://arxiv.org/abs/2410.15615
+  * Joint top-down and bottom-up, One-stage approach #
 
 ## Weakly-supervised
 * **Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding** | [Github](https://github.com/ZzZZCHS/WS-3DVG)
