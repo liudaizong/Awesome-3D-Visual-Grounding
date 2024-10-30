@@ -207,7 +207,12 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * Wencan Huang, Daizong Liu, Wei Hu
   * Peking University
   * [ACMMM2024] https://openreview.net/forum?id=KuHaYRftVN
-  * Two-stage approach, proposal-then-selection, flexible-object group-wise scene grounding 
+  * Two-stage approach, proposal-then-selection, flexible-object group-wise scene grounding
+* **Multi-Object 3D Grounding with Dynamic Modules and Language-Informed Spatial Attention** | 
+  * Haomeng Zhang, Chiao-An Yang, Raymond A. Yeh
+  * Purdue University
+  * [NeurIPS2024] https://arxiv.org/abs/2410.22306
+  * Two-stage approach, proposal-then-selection, multi-object grounding #
 * **SCENEVERSE: Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github](https://github.com/scene-verse/SceneVerse)
   * Baoxiong Jia , Yixin Chen , Huanyue Yu, Yan Wang, Xuesong Niu, Tengyu Liu, Qing Li, Siyuan Huang
   * Beijing Institute for General Artificial Intelligence
