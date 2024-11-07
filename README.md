@@ -213,6 +213,11 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * Purdue University
   * [NeurIPS2024] https://arxiv.org/abs/2410.22306
   * Two-stage approach, proposal-then-selection, multi-object grounding #
+* **Fine-Grained Spatial and Verbal Losses for 3D Visual Grounding** | 
+  * Sombit Dey, Ozan Unal, Christos Sakaridis, Luc Van Gool
+  * ETH Zurich, INSAIT, Huawei Technologies, KU Leuven
+  * [WACV2024] https://arxiv.org/abs/2411.03405
+  * Two-stage approach, novel losses #
 * **SCENEVERSE: Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github](https://github.com/scene-verse/SceneVerse)
   * Baoxiong Jia , Yixin Chen , Huanyue Yu, Yan Wang, Xuesong Niu, Tengyu Liu, Qing Li, Siyuan Huang
   * Beijing Institute for General Artificial Intelligence
