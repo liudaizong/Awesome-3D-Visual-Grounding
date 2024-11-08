@@ -506,3 +506,8 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * Chinese Academy of Sciences, South China Agricultural University, Beijing Institute of Technology
   * [Arxiv2024] https://arxiv.org/abs/2405.15274
   * Ourdoor scene, autonomous driving
+* **LidaRefer: Outdoor 3D Visual Grounding for Autonomous Driving with Transformers** | 
+  * Yeong-Seung Baek, Heung-Seon Oh
+  * Korea University of Technology and Education
+  * [Arxiv2024] https://arxiv.org/abs/2411.04351
+  * Ourdoor scene, autonomous driving #
