@@ -479,6 +479,11 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * Illinois Institute of Technology, Zhejiang University, University of Central Florida, University of Illinois at Chicago
   * [Arxiv2024] https://arxiv.org/abs/2410.00255
   * LLMs-based #
+* **Solving Zero-Shot 3D Visual Grounding as Constraint Satisfaction Problems** | [Github](https://github.com/sunsleaf/CSVG)
+  * Qihao Yuan, Jiaming Zhang, Kailai Li, Rainer Stiefelhagen
+  * Karlsruhe Institute of Technology, University of Groningen
+  * [Arxiv2024] https://arxiv.org/abs/2411.14594
+  * LLMs-based, zero-shot #
 * **Empowering 3D Visual Grounding with Reasoning Capabilities** | [Github](https://github.com/ZCMax/ScanReason)
   * Chenming Zhu, Tai Wang, Wenwei Zhang, Kai Chen, Xihui Liu
   * The University of Hong Kong, Shanghai AI Laboratory
