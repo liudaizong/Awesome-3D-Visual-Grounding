@@ -484,6 +484,11 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * Karlsruhe Institute of Technology, University of Groningen
   * [Arxiv2024] https://arxiv.org/abs/2411.14594
   * LLMs-based, zero-shot #
+* **SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding** | [Github](https://github.com/iris0329/SeeGround)
+  * Rong Li, Shijie Li, Lingdong Kong, Xulei Yang, Junwei Liang
+  * HKUST, A*STAR, National University of Singapore
+  * [Arxiv2024] https://arxiv.org/abs/2412.04383
+  * LLMs-based, zero-shot #
 * **Empowering 3D Visual Grounding with Reasoning Capabilities** | [Github](https://github.com/ZCMax/ScanReason)
   * Chenming Zhu, Tai Wang, Wenwei Zhang, Kai Chen, Xihui Liu
   * The University of Hong Kong, Shanghai AI Laboratory
