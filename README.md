@@ -499,6 +499,11 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * The Chinese University of Hong Kong, Zhejiang University, Shanghai AI Laboratory, Centre for Perceptual and Interactive Intelligence
   * [CoRL2024] https://arxiv.org/abs/2410.13860
   * LLMs-based, zero-shot #
+* **ViGiL3D: A Linguistically Diverse Dataset for 3D Visual Grounding** | 
+  * Austin T. Wang, ZeMing Gong, Angel X. Chang
+  * Simon Fraser University, Alberta Machine Intelligence Institute
+  * [Arxiv2025] https://arxiv.org/abs/2501.01366
+  * LLMs-based, new dataset #
 
 ## Outdoor-Scenes
 * **Language Prompt for Autonomous Driving** | [Github](https://github.com/wudongming97/Prompt4Driving)
