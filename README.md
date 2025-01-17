@@ -243,6 +243,11 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * n/a
   * [Arxiv2024] https://arxiv.org/abs/2408.13499
   * Two-stage approach, proposal-then-selection, scene graph reasoning
+* **AugRefer: Advancing 3D Visual Grounding via Cross-Modal Augmentation and Spatial Relation-based Referring** | 
+  * Xinyi Wang, Na Zhao, Zhiyuan Han, Dan Guo, Xun Yang
+  * University of Science and Technology of China, Singapore University of Technology and Design, Hefei University of Technology
+  * [AAAI2025] https://arxiv.org/abs/2501.09428
+  * Two-stage approach, object injection/augmentation #
 
 ## Fully-Supervised-One-Stage
 * **3DVG-Transformer: Relation Modeling for Visual Grounding on Point Clouds** | [Github](https://github.com/zlccccc/3DVG-Transformer)
