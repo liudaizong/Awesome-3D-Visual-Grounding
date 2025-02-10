@@ -509,6 +509,11 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * Simon Fraser University, Alberta Machine Intelligence Institute
   * [Arxiv2025] https://arxiv.org/abs/2501.01366
   * LLMs-based, new dataset #
+* **Evolving Symbolic 3D Visual Grounder with Weakly Supervised Reflection** | [Github](https://github.com/OpenRobotLab/EaSe)
+  * Boyu Mi, Hanqing Wang, Tai Wang, Yilun Chen, Jiangmiao Pang
+  * Shanghai AI Laboratory
+  * [Arxiv2025] https://arxiv.org/abs/2502.01401
+  * LLMs-based, training-free, advantages on accuracy and grounding cost #
 
 ## Outdoor-Scenes
 * **Language Prompt for Autonomous Driving** | [Github](https://github.com/wudongming97/Prompt4Driving)
