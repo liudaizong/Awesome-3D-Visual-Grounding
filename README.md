@@ -350,6 +350,11 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * Peking University
   * [ICPR2024] https://arxiv.org/abs/2410.15615
   * Joint top-down and bottom-up, One-stage approach #
+* **Text-guided Sparse Voxel Pruning for Efficient 3D Visual Grounding** | [Github](https://github.com/GWxuan/TSP3D)
+  * Wenxuan Guo, Xiuwei Xu, Ziwei Wang, Jianjiang Feng, Jie Zhou, Jiwen Lu
+  * Tsinghua University, Nanyang Technological University
+  * [ArXiv2025] https://arxiv.org/abs/2502.10392
+  * One-stage approach, sparse voxel pruning, efficient #
 
 ## Weakly-supervised
 * **Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding** | [Github](https://github.com/ZzZZCHS/WS-3DVG)
