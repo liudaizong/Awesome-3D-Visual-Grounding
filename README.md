@@ -367,6 +367,11 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * Meituan
   * [Arxiv2023] https://arxiv.org/abs/2312.09625
   * weakly-supervised, two-stage matching, multi-modal
+* **Weakly-supervised 3D Referring Expression Segmentation** | 
+  * Yihang Liu, Changli Wu, Xiaoshuai Sun, Jiayi Ji, Yiwei Ma, Gen Luo, Liujuan Cao, Rongrong Ji
+  * Xiamen University
+  * [Openreview2024] https://openreview.net/forum?id=cSAAGL0cn0
+  * Weakly-supervised, two-stage matching, segmentation-then-matching #
 
 ## Semi-supervised
 * **Cross-Task Knowledge Transfer for Semi-supervised Joint 3D Grounding and Captioning** | 
