@@ -212,12 +212,12 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * Haomeng Zhang, Chiao-An Yang, Raymond A. Yeh
   * Purdue University
   * [NeurIPS2024] https://arxiv.org/abs/2410.22306
-  * Two-stage approach, proposal-then-selection, multi-object grounding #
+  * Two-stage approach, proposal-then-selection, multi-object grounding
 * **Fine-Grained Spatial and Verbal Losses for 3D Visual Grounding** | 
   * Sombit Dey, Ozan Unal, Christos Sakaridis, Luc Van Gool
   * ETH Zurich, INSAIT, Huawei Technologies, KU Leuven
   * [WACV2024] https://arxiv.org/abs/2411.03405
-  * Two-stage approach, novel losses #
+  * Two-stage approach, novel losses
 * **SCENEVERSE: Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github](https://github.com/scene-verse/SceneVerse)
   * Baoxiong Jia , Yixin Chen , Huanyue Yu, Yan Wang, Xuesong Niu, Tengyu Liu, Qing Li, Siyuan Huang
   * Beijing Institute for General Artificial Intelligence
@@ -247,7 +247,7 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * Xinyi Wang, Na Zhao, Zhiyuan Han, Dan Guo, Xun Yang
   * University of Science and Technology of China, Singapore University of Technology and Design, Hefei University of Technology
   * [AAAI2025] https://arxiv.org/abs/2501.09428
-  * Two-stage approach, object injection/augmentation #
+  * Two-stage approach, object injection/augmentation
 
 ## Fully-Supervised-One-Stage
 * **3DVG-Transformer: Relation Modeling for Visual Grounding on Point Clouds** | [Github](https://github.com/zlccccc/3DVG-Transformer)
@@ -334,12 +334,12 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * Chenshu Hou, Liang Peng, Xiaopei Wu, Wenxiao Wang, Xiaofei He
   * Zhejiang University, FABU Inc.
   * [Arxiv2024] https://arxiv.org/abs/2407.14491
-  * A dataset, One-stage approach #
+  * A dataset, One-stage approach
 * **Grounding 3D Scene Affordance From Egocentric Interactions** | 
   * Cuiyu Liu, Wei Zhai, Yuhang Yang, Hongchen Luo, Sen Liang, Yang Cao, Zheng-Jun Zha
   * University of Science and Technology of China, Northeastern University
   * [Arxiv2024] https://arxiv.org/abs/2409.19650
-  * A dataset, One-stage approach, video #
+  * A dataset, One-stage approach, video
 * **Multi-branch Collaborative Learning Network for 3D Visual Grounding** | [Github](https://github.com/qzp2018/MCLN)
   * Zhipeng Qian, Yiwei Ma, Zhekai Lin, Jiayi Ji, Xiawu Zheng, Xiaoshuai Sun, Rongrong Ji
   * Xiamen University
@@ -349,12 +349,12 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * Yang Liu, Daizong Liu, Wei Hu
   * Peking University
   * [ICPR2024] https://arxiv.org/abs/2410.15615
-  * Joint top-down and bottom-up, One-stage approach #
+  * Joint top-down and bottom-up, One-stage approach
 * **Text-guided Sparse Voxel Pruning for Efficient 3D Visual Grounding** | [Github](https://github.com/GWxuan/TSP3D)
   * Wenxuan Guo, Xiuwei Xu, Ziwei Wang, Jianjiang Feng, Jie Zhou, Jiwen Lu
   * Tsinghua University, Nanyang Technological University
   * [ArXiv2025] https://arxiv.org/abs/2502.10392
-  * One-stage approach, sparse voxel pruning, efficient #
+  * One-stage approach, sparse voxel pruning, efficient
 
 ## Weakly-supervised
 * **Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding** | [Github](https://github.com/ZzZZCHS/WS-3DVG)
@@ -371,7 +371,7 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * Yihang Liu, Changli Wu, Xiaoshuai Sun, Jiayi Ji, Yiwei Ma, Gen Luo, Liujuan Cao, Rongrong Ji
   * Xiamen University
   * [Openreview2024] https://openreview.net/forum?id=cSAAGL0cn0
-  * Weakly-supervised, two-stage matching, segmentation-then-matching #
+  * Weakly-supervised, two-stage matching, segmentation-then-matching
 
 ## Semi-supervised
 * **Cross-Task Knowledge Transfer for Semi-supervised Joint 3D Grounding and Captioning** | 
@@ -415,7 +415,7 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * Vineet Bhat, Prashanth Krishnamurthy, Ramesh Karri, Farshad Khorrami
   * New York University
   * [Arxiv2024] https://arxiv.org/abs/2409.10419
-  * No point cloud input, RGB image #
+  * No point cloud input, RGB image
 
 ## LLMs-based
 * **ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance** | [Github](https://github.com/Ivan-Tang-3D/ViewRefer3D)
@@ -478,32 +478,32 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * Jang Hyun Cho, Boris Ivanovic, Yulong Cao, Edward Schmerling, Yue Wang, Xinshuo Weng, Boyi Li, Yurong You, Philipp Krähenbühl, Yan Wang, Marco Pavone
   * UT Austin, NVIDIA Research
   * [Arxiv2024] https://arxiv.org/abs/2405.03685
-  * A dataset, LLMs-based #
+  * A dataset, LLMs-based
 * **Task-oriented Sequential Grounding in 3D Scenes** | [Github](https://sg-3d.github.io/)
   * Zhuofan Zhang, Ziyu Zhu, Pengxiang Li, Tengyu Liu, Xiaojian Ma, Yixin Chen, Baoxiong Jia, Siyuan Huang, Qing Li
   * BIGA, Tsinghua Universit, Beijing Institute of Technology
   * [Arxiv2024] https://arxiv.org/abs/2408.04034
-  * A dataset, LLMs-based #
+  * A dataset, LLMs-based
 * **Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding** | [Github](https://github.com/YunzeMan/Lexicon3D)
   * Yunze Man, Shuhong Zheng, Zhipeng Bao, Martial Hebert, Liang-Yan Gui, Yu-Xiong Wang
   * University of Illinois Urbana-Champaign, Carnegie Mellon University
   * [Arxiv2024] https://arxiv.org/abs/2409.03757
-  * Foundation model #
+  * Foundation model
 * **Robin3D: Improving 3D Large Language Model via Robust Instruction Tuning** | 
   * Weitai Kang, Haifeng Huang, Yuzhang Shang, Mubarak Shah, Yan Yan
   * Illinois Institute of Technology, Zhejiang University, University of Central Florida, University of Illinois at Chicago
   * [Arxiv2024] https://arxiv.org/abs/2410.00255
-  * LLMs-based #
+  * LLMs-based
 * **Solving Zero-Shot 3D Visual Grounding as Constraint Satisfaction Problems** | [Github](https://github.com/sunsleaf/CSVG)
   * Qihao Yuan, Jiaming Zhang, Kailai Li, Rainer Stiefelhagen
   * Karlsruhe Institute of Technology, University of Groningen
   * [Arxiv2024] https://arxiv.org/abs/2411.14594
-  * LLMs-based, zero-shot #
+  * LLMs-based, zero-shot
 * **SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding** | [Github](https://github.com/iris0329/SeeGround)
   * Rong Li, Shijie Li, Lingdong Kong, Xulei Yang, Junwei Liang
   * HKUST, A*STAR, National University of Singapore
   * [Arxiv2024] https://arxiv.org/abs/2412.04383
-  * LLMs-based, zero-shot #
+  * LLMs-based, zero-shot
 * **Empowering 3D Visual Grounding with Reasoning Capabilities** | [Github](https://github.com/ZCMax/ScanReason)
   * Chenming Zhu, Tai Wang, Wenwei Zhang, Kai Chen, Xihui Liu
   * The University of Hong Kong, Shanghai AI Laboratory
@@ -513,24 +513,24 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * Runsen Xu, Zhiwei Huang, Tai Wang, Yilun Chen, Jiangmiao Pang, Dahua Lin
   * The Chinese University of Hong Kong, Zhejiang University, Shanghai AI Laboratory, Centre for Perceptual and Interactive Intelligence
   * [CoRL2024] https://arxiv.org/abs/2410.13860
-  * LLMs-based, zero-shot #
+  * LLMs-based, zero-shot
 * **ViGiL3D: A Linguistically Diverse Dataset for 3D Visual Grounding** | 
   * Austin T. Wang, ZeMing Gong, Angel X. Chang
   * Simon Fraser University, Alberta Machine Intelligence Institute
   * [Arxiv2025] https://arxiv.org/abs/2501.01366
-  * LLMs-based, new dataset #
+  * LLMs-based, new dataset
 * **Evolving Symbolic 3D Visual Grounder with Weakly Supervised Reflection** | [Github](https://github.com/OpenRobotLab/EaSe)
   * Boyu Mi, Hanqing Wang, Tai Wang, Yilun Chen, Jiangmiao Pang
   * Shanghai AI Laboratory
   * [Arxiv2025] https://arxiv.org/abs/2502.01401
-  * LLMs-based, training-free, advantages on accuracy and grounding cost #
+  * LLMs-based, training-free, advantages on accuracy and grounding cost
 
 ## Outdoor-Scenes
 * **Language Prompt for Autonomous Driving** | [Github](https://github.com/wudongming97/Prompt4Driving)
   * Dongming Wu, Wencheng Han, Tiancai Wang, Yingfei Liu, Xiangyu Zhang, Jianbing Shen
   * Beijing Institute of Technology, University of Macau, MEGVII Technology, Beijing Academy of Artificial Intelligence
   * [Arxiv2023] https://arxiv.org/abs/2309.04379
-  * Ourdoor scene, autonomous driving #
+  * Ourdoor scene, autonomous driving
 * **Talk2Radar: Bridging Natural Language with 4D mmWave Radar for 3D Referring Expression Comprehension** | [Github](https://github.com/GuanRunwei/Talk2Radar)
   * Runwei Guan, Ruixiao Zhang, Ningwei Ouyang, Jianan Liu, Ka Lok Man, Xiaohao Cai, Ming Xu, Jeremy Smith, Eng Gee Lim, Yutao Yue, Hui Xiong
   * JITRI, University of Liverpool, University of Southampton, Vitalent Consulting, Xi’an Jiaotong-Liverpool University, HKUST (GZ)
