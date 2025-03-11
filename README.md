@@ -355,6 +355,11 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * Tsinghua University, Nanyang Technological University
   * [ArXiv2025] https://arxiv.org/abs/2502.10392
   * One-stage approach, sparse voxel pruning, efficient
+* **ProxyTransformation: Preshaping Point Cloud Manifold With Proxy Attention For 3D Visual Grounding** | 
+  * Qihang Peng, Henry Zheng, Gao Huang
+  * Tsinghua University
+  * [ArXiv2025] https://arxiv.org/abs/2502.19247
+  * One-stage approach, proxy attention, 2D image, unified clustering-interaction #
 
 ## Weakly-supervised
 * **Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding** | [Github](https://github.com/ZzZZCHS/WS-3DVG)
@@ -524,6 +529,11 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * Shanghai AI Laboratory
   * [Arxiv2025] https://arxiv.org/abs/2502.01401
   * LLMs-based, training-free, advantages on accuracy and grounding cost
+* **LIFT-GS: Cross-Scene Render-Supervised Distillation for 3D Language Grounding** | [Github](https://liftgs.github.io/)
+  * Ang Cao, Sergio Arnaud, Oleksandr Maksymets, Jianing Yang, Ayush Jain, Sriram Yenamandra, Ada Martin, Vincent-Pierre Berges, Paul McVay, Ruslan Partsey, Aravind Rajeswaran, Franziska Meier, Justin Johnson, Jeong Joon Park, Alexander Sax
+  * University of Michigan, Meta, Carnegie Mellon University, Stanford University
+  * [Arxiv2025] https://arxiv.org/abs/2502.20389
+  * VLM-based, zero-shot #
 
 ## Outdoor-Scenes
 * **Language Prompt for Autonomous Driving** | [Github](https://github.com/wudongming97/Prompt4Driving)
