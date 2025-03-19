@@ -534,6 +534,11 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * University of Michigan, Meta, Carnegie Mellon University, Stanford University
   * [Arxiv2025] https://arxiv.org/abs/2502.20389
   * VLM-based, zero-shot #
+* **3DAxisPrompt: Promoting the 3D Grounding and Reasoning in GPT-4o** | 
+  * Dingning Liu, Cheng Wang, Peng Gao, Renrui Zhang, Xinzhu Ma, Yuan Meng, Zhihui Wang
+  * Shanghai AI Lab, Dalian University of Technology, Wuhan University, The Chinese University of Hong Kong, Tsinghua University
+  * [Arxiv2025] https://arxiv.org/abs/2503.13185
+  * MLLM-based, GPT-4o #
 
 ## Outdoor-Scenes
 * **Language Prompt for Autonomous Driving** | [Github](https://github.com/wudongming97/Prompt4Driving)
