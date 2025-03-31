@@ -550,24 +550,24 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * Dongming Wu, Wencheng Han, Tiancai Wang, Yingfei Liu, Xiangyu Zhang, Jianbing Shen
   * Beijing Institute of Technology, University of Macau, MEGVII Technology, Beijing Academy of Artificial Intelligence
   * [Arxiv2023] https://arxiv.org/abs/2309.04379
-  * Ourdoor scene, autonomous driving
+  * Outdoor scene, autonomous driving
 * **Talk2Radar: Bridging Natural Language with 4D mmWave Radar for 3D Referring Expression Comprehension** | [Github](https://github.com/GuanRunwei/Talk2Radar)
   * Runwei Guan, Ruixiao Zhang, Ningwei Ouyang, Jianan Liu, Ka Lok Man, Xiaohao Cai, Ming Xu, Jeremy Smith, Eng Gee Lim, Yutao Yue, Hui Xiong
   * JITRI, University of Liverpool, University of Southampton, Vitalent Consulting, Xi’an Jiaotong-Liverpool University, HKUST (GZ)
   * [Arxiv2024] https://arxiv.org/abs/2405.12821
-  * Ourdoor scene, autonomous driving
+  * Outdoor scene, autonomous driving
 * **Talk to Parallel LiDARs: A Human-LiDAR Interaction Method Based on 3D Visual Grounding** | 
   * Yuhang Liu, Boyi Sun, Guixu Zheng, Yishuo Wang, Jing Wang, Fei-Yue Wang
   * Chinese Academy of Sciences, South China Agricultural University, Beijing Institute of Technology
   * [Arxiv2024] https://arxiv.org/abs/2405.15274
-  * Ourdoor scene, autonomous driving
+  * Outdoor scene, autonomous driving
 * **LidaRefer: Outdoor 3D Visual Grounding for Autonomous Driving with Transformers** | 
   * Yeong-Seung Baek, Heung-Seon Oh
   * Korea University of Technology and Education
   * [Arxiv2024] https://arxiv.org/abs/2411.04351
-  * Ourdoor scene, autonomous driving #
+  * Outdoor scene, autonomous driving #
 * **NuGrounding: A Multi-View 3D Visual Grounding Framework in Autonomous Driving** | 
   * Fuhao Li, Huan Jin, Bin Gao, Liaoyuan Fan, Lihui Jiang, Long Zeng
   * Tsinghua University
   * [Arxiv2025] https://arxiv.org/abs/2503.22436
-  * Ourdoor scene, autonomous driving #
+  * Outdoor scene, autonomous driving #
