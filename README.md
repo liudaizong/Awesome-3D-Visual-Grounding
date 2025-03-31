@@ -421,6 +421,11 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * New York University
   * [Arxiv2024] https://arxiv.org/abs/2409.10419
   * No point cloud input, RGB image
+* **ORIGEN: Zero-Shot 3D Orientation Grounding in Text-to-Image Generation** | 
+  * Yunhong Min, Daehyeon Choi, Kyeongmin Yeo, Jihyun Lee, Minhyuk Sung
+  * KAIST
+  * [Arxiv2025] https://arxiv.org/abs/2503.22194
+  * No point cloud input, RGB image #
 
 ## LLMs-based
 * **ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance** | [Github](https://github.com/Ivan-Tang-3D/ViewRefer3D)
@@ -560,4 +565,9 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * Yeong-Seung Baek, Heung-Seon Oh
   * Korea University of Technology and Education
   * [Arxiv2024] https://arxiv.org/abs/2411.04351
+  * Ourdoor scene, autonomous driving #
+* **NuGrounding: A Multi-View 3D Visual Grounding Framework in Autonomous Driving** | 
+  * Fuhao Li, Huan Jin, Bin Gao, Liaoyuan Fan, Lihui Jiang, Long Zeng
+  * Tsinghua University
+  * [Arxiv2025] https://arxiv.org/abs/2503.22436
   * Ourdoor scene, autonomous driving #
