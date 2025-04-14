@@ -248,6 +248,11 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * University of Science and Technology of China, Singapore University of Technology and Design, Hefei University of Technology
   * [AAAI2025] https://arxiv.org/abs/2501.09428
   * Two-stage approach, object injection/augmentation
+* **DSM: Building A Diverse Semantic Map for 3D Visual Grounding** | 
+  * Qinghongbing Xie, Zijian Liang, Long Zeng
+  * Tsinghua University, South China University of Technology
+  * [Arxiv2025] https://arxiv.org/abs/2504.08307
+  * Two-stage approach, multi-view information, semantic map #
 
 ## Fully-Supervised-One-Stage
 * **3DVG-Transformer: Relation Modeling for Visual Grounding on Point Clouds** | [Github](https://github.com/zlccccc/3DVG-Transformer)
