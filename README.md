@@ -253,6 +253,11 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * Tsinghua University, South China University of Technology
   * [Arxiv2025] https://arxiv.org/abs/2504.08307
   * Two-stage approach, multi-view information, semantic map #
+* **Ges3ViG: Incorporating Pointing Gestures into Language-Based 3D Visual Grounding for Embodied Reference Understanding** | [Github](https://github.com/AtharvMane/Ges3ViG)
+  * Atharv Mahesh Mane, Dulanga Weerakoon, Vigneshwaran Subbaraju, Sougata Sen, Sanjay E. Sarma, Archan Misra
+  * Stony Brook University, BITS Pilani Goa campus, Singapore-MIT Alliance for Research and Technology Centre
+  * [CVPR2025] https://arxiv.org/abs/2504.09623
+  * Two-stage approach, gesture #
 
 ## Fully-Supervised-One-Stage
 * **3DVG-Transformer: Relation Modeling for Visual Grounding on Point Clouds** | [Github](https://github.com/zlccccc/3DVG-Transformer)
@@ -355,16 +360,16 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * Peking University
   * [ICPR2024] https://arxiv.org/abs/2410.15615
   * Joint top-down and bottom-up, One-stage approach
-* **Text-guided Sparse Voxel Pruning for Efficient 3D Visual Grounding** | [Github](https://github.com/GWxuan/TSP3D)
-  * Wenxuan Guo, Xiuwei Xu, Ziwei Wang, Jianjiang Feng, Jie Zhou, Jiwen Lu
-  * Tsinghua University, Nanyang Technological University
-  * [ArXiv2025] https://arxiv.org/abs/2502.10392
-  * One-stage approach, sparse voxel pruning, efficient
 * **ProxyTransformation: Preshaping Point Cloud Manifold With Proxy Attention For 3D Visual Grounding** | 
   * Qihang Peng, Henry Zheng, Gao Huang
   * Tsinghua University
   * [ArXiv2025] https://arxiv.org/abs/2502.19247
   * One-stage approach, proxy attention, 2D image, unified clustering-interaction #
+* **Text-guided Sparse Voxel Pruning for Efficient 3D Visual Grounding** | [Github](https://github.com/GWxuan/TSP3D)
+  * Wenxuan Guo, Xiuwei Xu, Ziwei Wang, Jianjiang Feng, Jie Zhou, Jiwen Lu
+  * Tsinghua University, Nanyang Technological University
+  * [CVPR2025] https://arxiv.org/abs/2502.10392
+  * One-stage approach, sparse voxel pruning, efficient
 
 ## Weakly-supervised
 * **Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding** | [Github](https://github.com/ZzZZCHS/WS-3DVG)
@@ -554,6 +559,16 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * Carnegie Mellon University
   * [Arxiv2025] https://arxiv.org/abs/2504.18684
   * LLMs-based, zero-shot #
+* **Grounding 3D Object Affordance with Language Instructions, Visual Observations and Interactions** | [Github](https://sites.google.com/view/lmaffordance3d)
+  * He Zhu, Quyu Kong, Kechun Xu, Xunlong Xia, Bing Deng, Jieping Ye, Rong Xiong, Yue Wang
+  * Zhejiang University, Alibaba Cloud
+  * [CVPR2025] https://arxiv.org/abs/2504.04744
+  * VLM-based, 2D-3D #
+* **ReasonGrounder: LVLM-Guided Hierarchical Feature Splatting for Open-Vocabulary 3D Visual Grounding and Reasoning** | [Github](https://zhenyangliu.github.io/ReasonGrounder/)
+  * Zhenyang Liu, Yikai Wang, Sixiao Zheng, Tongying Pan, Longfei Liang, Yanwei Fu, Xiangyang Xue
+  * Fudan University, Nanyang Technological University, Shanghai Innovation Institute, NeuHelium Co., Ltd
+  * [CVPR2025] https://arxiv.org/abs/2503.23297
+  * LVLM-based, 2D-3D #
 
 ## Outdoor-Scenes
 * **Language Prompt for Autonomous Driving** | [Github](https://github.com/wudongming97/Prompt4Driving)
