@@ -549,6 +549,11 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * Shanghai AI Lab, Dalian University of Technology, Wuhan University, The Chinese University of Hong Kong, Tsinghua University
   * [Arxiv2025] https://arxiv.org/abs/2503.13185
   * MLLM-based, GPT-4o #
+* **SORT3D: Spatial Object-centric Reasoning Toolbox for Zero-Shot 3D Grounding Using Large Language Models** | [Github]([https://liftgs.github.io/](https://github.com/nzantout/SORT3D))
+  * Nader Zantout, Haochen Zhang, Pujith Kachana, Jinkai Qiu, Ji Zhang, Wenshan Wang
+  * Carnegie Mellon University
+  * [Arxiv2025] https://arxiv.org/abs/2504.18684
+  * LLMs-based, zero-shot #
 
 ## Outdoor-Scenes
 * **Language Prompt for Autonomous Driving** | [Github](https://github.com/wudongming97/Prompt4Driving)
