@@ -253,6 +253,11 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * Tsinghua University, South China University of Technology
   * [Arxiv2025] https://arxiv.org/abs/2504.08307
   * Two-stage approach, multi-view information, semantic map #
+* **AS3D: 2D-Assisted Cross-Modal Understanding with Semantic-Spatial Scene Graphs for 3D Visual Grounding** | [Github](https://github.com/onmyoji-xiao/AS3D)
+  * Feng Xiao, Hongbin Xu, Guocan Zhao, Wenxiong Kang
+  * South China University of Technology
+  * [Arxiv2025] https://arxiv.org/abs/2505.04058
+  * Two-stage approach, 2D-3D, segmentation #
 * **Ges3ViG: Incorporating Pointing Gestures into Language-Based 3D Visual Grounding for Embodied Reference Understanding** | [Github](https://github.com/AtharvMane/Ges3ViG)
   * Atharv Mahesh Mane, Dulanga Weerakoon, Vigneshwaran Subbaraju, Sougata Sen, Sanjay E. Sarma, Archan Misra
   * Stony Brook University, BITS Pilani Goa campus, Singapore-MIT Alliance for Research and Technology Centre
@@ -387,6 +392,11 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * Xiamen University
   * [Openreview2024] https://openreview.net/forum?id=cSAAGL0cn0
   * Weakly-supervised, two-stage matching, segmentation-then-matching
+* **3DWG: 3D Weakly Supervised Visual Grounding via Category and Instance-Level Alignment** | 
+  * Xiaoqi Li, Jiaming Liu, Nuowei Han, Liang Heng, Yandong Guo, Hao Dong, Yang Liu
+  * Peking University
+  * [ICRA2025] https://arxiv.org/abs/2505.01809
+  * Weakly-supervised #
 
 ## Semi-supervised
 * **Cross-Task Knowledge Transfer for Semi-supervised Joint 3D Grounding and Captioning** | 
@@ -569,6 +579,11 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * Fudan University, Nanyang Technological University, Shanghai Innovation Institute, NeuHelium Co., Ltd
   * [CVPR2025] https://arxiv.org/abs/2503.23297
   * LVLM-based, 2D-3D #
+* **DenseGrounding: Improving Dense Language-Vision Semantics for Ego-Centric 3D Visual Grounding** | 
+  * Henry Zheng, Hao Shi, Qihang Peng, Yong Xien Chng, Rui Huang, Yepeng Weng, Zhongchao Shi, Gao Huang
+  * Tsinghua University
+  * [ICLR2025] https://arxiv.org/abs/2505.04965
+  * LLM-based, 2D-3D #
 
 ## Outdoor-Scenes
 * **Language Prompt for Autonomous Driving** | [Github](https://github.com/wudongming97/Prompt4Driving)
