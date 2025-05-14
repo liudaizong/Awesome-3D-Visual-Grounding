@@ -569,6 +569,11 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * Carnegie Mellon University
   * [Arxiv2025] https://arxiv.org/abs/2504.18684
   * LLMs-based, zero-shot #
+* **LIBA: Language Instructed Multi-granularity Bridge Assistant for 3D Visual Grounding** | 
+  * Yuan Wang, Ya-Li Li, W U Eastman Z Y, Shengjin Wang
+  * Tsinghua University
+  * [AAAI2025] https://ojs.aaai.org/index.php/AAAI/article/view/32875
+  * LLM-based #
 * **Grounding 3D Object Affordance with Language Instructions, Visual Observations and Interactions** | [Github](https://sites.google.com/view/lmaffordance3d)
   * He Zhu, Quyu Kong, Kechun Xu, Xunlong Xia, Bing Deng, Jieping Ye, Rong Xiong, Yue Wang
   * Zhejiang University, Alibaba Cloud
