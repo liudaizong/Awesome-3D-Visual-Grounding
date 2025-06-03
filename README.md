@@ -569,6 +569,11 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * Carnegie Mellon University
   * [Arxiv2025] https://arxiv.org/abs/2504.18684
   * LLMs-based, zero-shot #
+* **Zero-Shot 3D Visual Grounding from Vision-Language Models** | [Github](https://seeground.github.io/)
+  * Rong Li, Shijie Li, Lingdong Kong, Xulei Yang, Junwei Liang
+  * HKUST, A*STAR, NUS
+  * [Arxiv2025] https://arxiv.org/abs/2505.22429
+  * VLMs-based, zero-shot #
 * **LIBA: Language Instructed Multi-granularity Bridge Assistant for 3D Visual Grounding** | 
   * Yuan Wang, Ya-Li Li, W U Eastman Z Y, Shengjin Wang
   * Tsinghua University
