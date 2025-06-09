@@ -446,6 +446,11 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * KAIST
   * [Arxiv2025] https://arxiv.org/abs/2503.22194
   * No point cloud input, RGB image #
+* **Grounding Beyond Detection: Enhancing Contextual Understanding in Embodied 3D Grounding** | [Github](https://github.com/zyn213/DEGround)
+  * Yani Zhang, Dongming Wu, Hao Shi, Yingfei Liu, Tiancai Wang, Haoqiang Fan, Xingping Dong
+  * Wuhan University, Beijing Institute of Technology, Tsinghua University, Dexmal
+  * [Arxiv2025] https://arxiv.org/abs/2506.05199
+  * No point cloud input, Depth, RGB image #
 
 ## LLMs-based
 * **ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance** | [Github](https://github.com/Ivan-Tang-3D/ViewRefer3D)
@@ -594,6 +599,11 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * Tsinghua University
   * [ICLR2025] https://arxiv.org/abs/2505.04965
   * LLM-based, 2D-3D #
+* **From Objects to Anywhere: A Holistic Benchmark for Multi-level Visual Grounding in 3D Scenes** | [Github](https://anywhere-3d.github.io/)
+  * Tianxu Wang, Zhuofan Zhang, Ziyu Zhu, Yue Fan, Jing Xiong, Pengxiang Li, Xiaojian Ma, Qing Li
+  * BIGAI, Tsinghua University, Peking University, Beijing Institute of Technology
+  * [ICLR2025] https://arxiv.org/abs/2506.04897
+  * LLM-based, MLLM-enhanced #
 
 ## Outdoor-Scenes
 * **Language Prompt for Autonomous Driving** | [Github](https://github.com/wudongming97/Prompt4Driving)
