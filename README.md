@@ -258,6 +258,16 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * South China University of Technology
   * [Arxiv2025] https://arxiv.org/abs/2505.04058
   * Two-stage approach, 2D-3D, segmentation #
+* **I Speak and You Find: Robust 3D Visual Grounding with Noisy and Ambiguous Speech Inputs** | 
+  * Yu Qi, Lipeng Gu, Honghua Chen, Liangliang Nan, Mingqiang Wei
+  * Nanjing University of Aeronautics and Astronautics, Delft University of Technology
+  * [Arxiv2025] https://arxiv.org/abs/2506.14495
+  * Two-stage approach, speech #
+* **Unified Representation Space for 3D Visual Grounding** | 
+  * Yinuo Zheng, Lipeng Gu, Honghua Chen, Liangliang Nan, Mingqiang Wei
+  * Nanjing University of Aeronautics and Astronautics, Delft University of Technology
+  * [Arxiv2025] https://arxiv.org/abs/2506.14238
+  * Two-stage approach #
 * **Ges3ViG: Incorporating Pointing Gestures into Language-Based 3D Visual Grounding for Embodied Reference Understanding** | [Github](https://github.com/AtharvMane/Ges3ViG)
   * Atharv Mahesh Mane, Dulanga Weerakoon, Vigneshwaran Subbaraju, Sougata Sen, Sanjay E. Sarma, Archan Misra
   * Stony Brook University, BITS Pilani Goa campus, Singapore-MIT Alliance for Research and Technology Centre
