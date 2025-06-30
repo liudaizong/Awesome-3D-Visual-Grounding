@@ -589,6 +589,11 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * HKUST, A*STAR, NUS
   * [Arxiv2025] https://arxiv.org/abs/2505.22429
   * VLMs-based, zero-shot #
+* **SPAZER: Spatial-Semantic Progressive Reasoning Agent for Zero-shot 3D Visual Grounding** | 
+  * Zhao Jin, Rong-Cheng Tu, Jingyi Liao, Wenhao Sun, Xiao Luo, Shunyu Liu, Dacheng Tao
+  * Nanyang Technological University, University of California
+  * [Arxiv2025] https://arxiv.org/abs/2506.21924
+  * VLMs-based, zero-shot #
 * **LIBA: Language Instructed Multi-granularity Bridge Assistant for 3D Visual Grounding** | 
   * Yuan Wang, Ya-Li Li, W U Eastman Z Y, Shengjin Wang
   * Tsinghua University
