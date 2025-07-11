@@ -594,6 +594,11 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * Nanyang Technological University, University of California
   * [Arxiv2025] https://arxiv.org/abs/2506.21924
   * VLMs-based, zero-shot #
+* **A Neural Representation Framework with LLM-Driven Spatial Reasoning for Open-Vocabulary 3D Visual Grounding** | 
+  * Zhenyang Liu, Sixiao Zheng, Siyu Chen, Cairong Zhao, Longfei Liang, Xiangyang Xue, Yanwei Fu
+  * Fudan University, Zhejiang University, Tongji University, NeuHelium Co., Ltd
+  * [Arxiv2025] https://arxiv.org/abs/2507.06719
+  * LLM-based, spatial reasoning, open-vocabulary #
 * **LIBA: Language Instructed Multi-granularity Bridge Assistant for 3D Visual Grounding** | 
   * Yuan Wang, Ya-Li Li, W U Eastman Z Y, Shengjin Wang
   * Tsinghua University
