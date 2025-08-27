@@ -461,6 +461,11 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * Wuhan University, Beijing Institute of Technology, Tsinghua University, Dexmal
   * [Arxiv2025] https://arxiv.org/abs/2506.05199
   * No point cloud input, Depth, RGB image #
+* **Dual Enhancement on 3D Vision-Language Perception for Monocular 3D Visual Grounding** | 
+  * Yuzhen Li, Min Liu, Yuan Bian, Xueping Wang, Zhaoyang Li, Gen Li, Yaonan Wang
+  * Hunan University, Hunan Normal University, University of Edinburgh
+  * [Arxiv2025] https://arxiv.org/abs/2508.19165
+  * No point cloud input, monocular image #
 
 ## LLMs-based
 * **ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance** | [Github](https://github.com/Ivan-Tang-3D/ViewRefer3D)
