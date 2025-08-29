@@ -564,11 +564,6 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * Simon Fraser University, Alberta Machine Intelligence Institute
   * [Arxiv2025] https://arxiv.org/abs/2501.01366
   * LLMs-based, new dataset
-* **Evolving Symbolic 3D Visual Grounder with Weakly Supervised Reflection** | [Github](https://github.com/OpenRobotLab/EaSe)
-  * Boyu Mi, Hanqing Wang, Tai Wang, Yilun Chen, Jiangmiao Pang
-  * Shanghai AI Laboratory
-  * [Arxiv2025] https://arxiv.org/abs/2502.01401
-  * LLMs-based, training-free, advantages on accuracy and grounding cost
 * **LIFT-GS: Cross-Scene Render-Supervised Distillation for 3D Language Grounding** | [Github](https://liftgs.github.io/)
   * Ang Cao, Sergio Arnaud, Oleksandr Maksymets, Jianing Yang, Ayush Jain, Sriram Yenamandra, Ada Martin, Vincent-Pierre Berges, Paul McVay, Ruslan Partsey, Aravind Rajeswaran, Franziska Meier, Justin Johnson, Jeong Joon Park, Alexander Sax
   * University of Michigan, Meta, Carnegie Mellon University, Stanford University
@@ -599,6 +594,11 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * Fudan University, Zhejiang University, Tongji University, NeuHelium Co., Ltd
   * [Arxiv2025] https://arxiv.org/abs/2507.06719
   * LLM-based, spatial reasoning, open-vocabulary #
+* **SeqVLM: Proposal-Guided Multi-View Sequences Reasoning via VLM for Zero-Shot 3D Visual Grounding** | 
+  * Jiawen Lin, Shiran Bian, Yihang Zhu, Wenbin Tan, Yachao Zhang, Yuan Xie, Yanyun Qu
+  * Xiamen University, Nanjing University, East China Normal University
+  * [Arxiv2025] https://arxiv.org/abs/2508.20758
+  * VLMs-based, zero-shot #
 * **LIBA: Language Instructed Multi-granularity Bridge Assistant for 3D Visual Grounding** | 
   * Yuan Wang, Ya-Li Li, W U Eastman Z Y, Shengjin Wang
   * Tsinghua University
@@ -629,6 +629,11 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * BIGAI, Tsinghua University, Peking University, Beijing Institute of Technology
   * [ICLR2025] https://arxiv.org/abs/2506.04897
   * LLM-based, MLLM-enhanced #
+* **Language-to-Space Programming for Training-Free 3D Visual Grounding** | [Github](https://github.com/InternRobotics/LaSP)
+  * Boyu Mi, Hanqing Wang, Tai Wang, Yilun Chen, Jiangmiao Pang
+  * Shanghai AI Laboratory
+  * [EMNLP2025] https://arxiv.org/abs/2502.01401
+  * LLMs-based, training-free, advantages on accuracy and grounding cost
 
 ## Outdoor-Scenes
 * **Language Prompt for Autonomous Driving** | [Github](https://github.com/wudongming97/Prompt4Driving)
