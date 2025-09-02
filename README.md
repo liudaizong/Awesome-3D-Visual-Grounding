@@ -268,6 +268,11 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * Nanjing University of Aeronautics and Astronautics, Delft University of Technology
   * [Arxiv2025] https://arxiv.org/abs/2506.14238
   * Two-stage approach #
+* **Audio-3DVG: Unified Audio -- Point Cloud Fusion for 3D Visual Grounding** | 
+  * Duc Cao-Dinh, Khai Le-Duc, Anh Dao, Bach Phan Tat, Chris Ngo, Duy M. H. Nguyen, Nguyen X. Khanh, Thanh Nguyen-Tang
+  * Hanyang University, University of Toronto, University Health Network, Knovel Engineering Lab, Michigan State University, KU Leuven, German Research Center for Artificial Intelligence, Max Planck Research School for Intelligent Systems, University of Stuttgart, UC Berkeley, Johns Hopkins University
+  * [Arxiv2025] https://arxiv.org/abs/2507.00669
+  * Two-stage approach, audio #
 * **Ges3ViG: Incorporating Pointing Gestures into Language-Based 3D Visual Grounding for Embodied Reference Understanding** | [Github](https://github.com/AtharvMane/Ges3ViG)
   * Atharv Mahesh Mane, Dulanga Weerakoon, Vigneshwaran Subbaraju, Sougata Sen, Sanjay E. Sarma, Archan Misra
   * Stony Brook University, BITS Pilani Goa campus, Singapore-MIT Alliance for Research and Technology Centre
