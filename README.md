@@ -9,7 +9,7 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
 [A Survey on Text-guided 3D Visual Grounding: Elements, Recent Advances, and Future Directions](https://arxiv.org/abs/2406.05785).
 
 
-> If you find some important work missed, it would be super helpful to let me know (`dzliu@stu.pku.edu.cn`). Thanks!
+> If you find some important work missed, it would be super helpful to let me know (`daizongliu@whu.edu.cn`). Thanks!
 
 > If you find our survey useful for your research, please consider citing:
 
@@ -278,6 +278,11 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * Peking University, Peng Cheng Laboratory, City University of Hongkong
   * [Arxiv2025] https://arxiv.org/abs/2509.15871
   * Two-stage approach, SAM, 2D #
+* **B2N3D: Progressive Learning from Binary to N-ary Relationships for 3D Object Grounding** | 
+  * Feng Xiao, Hongbin Xu, Hai Ci, Wenxiong Kang
+  * -
+  * [Arxiv2025] https://arxiv.org/abs/2510.10194
+  * Two-stage approach, relation #
 * **Ges3ViG: Incorporating Pointing Gestures into Language-Based 3D Visual Grounding for Embodied Reference Understanding** | [Github](https://github.com/AtharvMane/Ges3ViG)
   * Atharv Mahesh Mane, Dulanga Weerakoon, Vigneshwaran Subbaraju, Sougata Sen, Sanjay E. Sarma, Archan Misra
   * Stony Brook University, BITS Pilani Goa campus, Singapore-MIT Alliance for Research and Technology Centre
@@ -609,6 +614,16 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * Xiamen University, Nanjing University, East China Normal University
   * [Arxiv2025] https://arxiv.org/abs/2508.20758
   * VLMs-based, zero-shot #
+* **ChangingGrounding: 3D Visual Grounding in Changing Scenes** | 
+  * Miao Hu, Zhiwei Huang, Tai Wang, Jiangmiao Pang, Dahua Lin, Nanning Zheng, Runsen Xu
+  * Xi’an Jiaotong University, Zhejiang University, The Chinese University of Hong Kong, Shanghai AI Laboratory
+  * [Arxiv2025] https://arxiv.org/abs/2510.14965
+  * LLMs-based, robotic #
+* **Reasoning in Space via Grounding in the World** | 
+  * Yiming Chen, Zekun Qi, Wenyao Zhang, Xin Jin, Li Zhang, Peidong Liu
+  * Westlake University, Shanghai Innovation Institute, Zhejiang University, Tsinghua University, Shanghai Jiao Tong University, Eastern Institute of Technology, Fudan University
+  * [Arxiv2025] https://arxiv.org/abs/2510.13800
+  * LLMs-based, video #
 * **LIBA: Language Instructed Multi-granularity Bridge Assistant for 3D Visual Grounding** | 
   * Yuan Wang, Ya-Li Li, W U Eastman Z Y, Shengjin Wang
   * Tsinghua University
