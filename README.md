@@ -624,6 +624,11 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * Westlake University, Shanghai Innovation Institute, Zhejiang University, Tsinghua University, Shanghai Jiao Tong University, Eastern Institute of Technology, Fudan University
   * [Arxiv2025] https://arxiv.org/abs/2510.13800
   * LLMs-based, video #
+* **Where, Not What: Compelling Video LLMs to Learn Geometric Causality for 3D-Grounding** | 
+  * Yutong Zhong
+  * New York University
+  * [Arxiv2025] https://arxiv.org/abs/2510.17034
+  * LLMs-based, video #
 * **LIBA: Language Instructed Multi-granularity Bridge Assistant for 3D Visual Grounding** | 
   * Yuan Wang, Ya-Li Li, W U Eastman Z Y, Shengjin Wang
   * Tsinghua University
