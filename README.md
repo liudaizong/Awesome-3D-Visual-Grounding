@@ -657,7 +657,7 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
 * **From Objects to Anywhere: A Holistic Benchmark for Multi-level Visual Grounding in 3D Scenes** | [Github](https://anywhere-3d.github.io/)
   * Tianxu Wang, Zhuofan Zhang, Ziyu Zhu, Yue Fan, Jing Xiong, Pengxiang Li, Xiaojian Ma, Qing Li
   * BIGAI, Tsinghua University, Peking University, Beijing Institute of Technology
-  * [ICLR2025] https://arxiv.org/abs/2506.04897
+  * [NeurIPS2025] https://arxiv.org/abs/2506.04897
   * LLM-based, MLLM-enhanced #
 * **Language-to-Space Programming for Training-Free 3D Visual Grounding** | [Github](https://github.com/InternRobotics/LaSP)
   * Boyu Mi, Hanqing Wang, Tai Wang, Yilun Chen, Jiangmiao Pang
