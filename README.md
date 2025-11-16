@@ -481,6 +481,11 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * Hunan University, Hunan Normal University, University of Edinburgh
   * [Arxiv2025] https://arxiv.org/abs/2508.19165
   * No point cloud input, monocular image #
+* **Mono3DVG-EnSD: Enhanced Spatial-aware and Dimension-decoupled Text Encoding for Monocular 3D Visual Grounding** | 
+  * Yuzhen Li, Min Liu, Zhaoyang Li, Yuan Bian, Xueping Wang, Erbo Zhai, Yaonan Wang
+  * Hunan University, Hunan Normal University
+  * [Arxiv2025] https://arxiv.org/abs/2511.06908
+  * No point cloud input, monocular image #
 
 ## LLMs-based
 * **ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance** | [Github](https://github.com/Ivan-Tang-3D/ViewRefer3D)
@@ -686,6 +691,11 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * Korea University of Technology and Education
   * [Arxiv2024] https://arxiv.org/abs/2411.04351
   * Outdoor scene, autonomous driving #
+* **3EED: Ground Everything Everywhere in 3D** | 
+  * YRong Li, Yuhao Dong, Tianshuai Hu, Ao Liang, Youquan Liu, Dongyue Lu, Liang Pan, Lingdong Kong, Junwei Liang, Ziwei Liu
+  * HKUST(GZ), NTU, HKUST, NUS, FDU, Shanghai AI Laboratory
+  * [NeurIPS2025] https://arxiv.org/abs/2511.01755
+  * Outdoor scene, autonomous driving, dataset#
 * **NuGrounding: A Multi-View 3D Visual Grounding Framework in Autonomous Driving** | 
   * Fuhao Li, Huan Jin, Bin Gao, Liaoyuan Fan, Lihui Jiang, Long Zeng
   * Tsinghua University
