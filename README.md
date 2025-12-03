@@ -692,7 +692,7 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * [Arxiv2024] https://arxiv.org/abs/2411.04351
   * Outdoor scene, autonomous driving #
 * **3EED: Ground Everything Everywhere in 3D** | 
-  * YRong Li, Yuhao Dong, Tianshuai Hu, Ao Liang, Youquan Liu, Dongyue Lu, Liang Pan, Lingdong Kong, Junwei Liang, Ziwei Liu
+  * Rong Li, Yuhao Dong, Tianshuai Hu, Ao Liang, Youquan Liu, Dongyue Lu, Liang Pan, Lingdong Kong, Junwei Liang, Ziwei Liu
   * HKUST(GZ), NTU, HKUST, NUS, FDU, Shanghai AI Laboratory
   * [NeurIPS2025] https://arxiv.org/abs/2511.01755
   * Outdoor scene, autonomous driving, dataset#
