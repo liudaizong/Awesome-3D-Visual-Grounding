@@ -538,8 +538,7 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * National Taiwan University, NVIDIA
   * [Arxiv2024] https://arxiv.org/abs/2403.16539
   * LLMs-based, Chain-of-Thoughts
-* **SCENEVERSE:
-Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github](https://github.com/scene-verse/SceneVerse)
+* **SCENEVERSE: Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github](https://github.com/scene-verse/SceneVerse)
   * Baoxiong Jia , Yixin Chen , Huanyue Yu, Yan Wang, Xuesong Niu, Tengyu Liu, Qing Li, Siyuan Huang
   * Beijing Institute for General Artificial Intelligence
   * [Arxiv2024] https://arxiv.org/abs/2401.09340
@@ -634,6 +633,31 @@ Scaling 3D Vision-Language Learning for Grounded Scene Understanding** | [Github
   * New York University
   * [Arxiv2025] https://arxiv.org/abs/2510.17034
   * LLMs-based, video #
+* **PanoGrounder: Bridging 2D and 3D with Panoramic Scene Representations for VLM-based 3D Visual Grounding** | 
+  * Seongmin Jung, Seongho Choi, Gunwoo Jeon, Minsu Cho, Jongwoo Lim
+  * Seoul National University, Pohang University of Science and Technology
+  * [Arxiv2025] https://arxiv.org/abs/2512.20907
+  * VLM-based, 2D-3D #
+* **N3D-VLM: Native 3D Grounding Enables Accurate Spatial Reasoning in Vision-Language Models** | 
+  * Yuxin Wang, Lei Ke, Boqiang Zhang, Tianyuan Qu, Hanxun Yu, Zhenpeng Huang, Meng Yu, Dan Xu, Dong Yu
+  * HKUST, Tencent AI Lab, CUHK, ZJU, NJU
+  * [Arxiv2025] https://arxiv.org/abs/2512.16561
+  * VLM-based, 2D-3D #
+* **D3D-VLP: Dynamic 3D Vision-Language-Planning Model for Embodied Grounding and Navigation** | 
+  * Zihan Wang, Seungjun Lee, Guangzhao Dai, Gim Hee Lee
+  * National University of Singapore, Nanjing University of Science and Technology
+  * [Arxiv2025] https://arxiv.org/abs/2512.12622
+  * VLM-based #
+* **View-on-Graph: Zero-shot 3D Visual Grounding via Vision-Language Reasoning on Scene Graphs** | 
+  * Yuanyuan Liu, Haiyang Mei, Dongyang Zhan, Jiayue Zhao, Dongsheng Zhou, Bo Dong, Xin Yang
+  * Dalian University of Technology, National University of Singapore, Dalian University, Cephia AI
+  * [Arxiv2025] https://arxiv.org/abs/2512.09215
+  * VLM-based, zero-shot #
+* **S2-MLLM: Boosting Spatial Reasoning Capability of MLLMs for 3D Visual Grounding with Structural Guidance** | 
+  * Beining Xu, Siting Zhu, Zhao Jin, Junxian Li, Hesheng Wang
+  * Shanghai Jiao Tong University, Nanyang Technological University
+  * [Arxiv2025] https://arxiv.org/abs/2512.01223
+  * MLLM-based #
 * **LIBA: Language Instructed Multi-granularity Bridge Assistant for 3D Visual Grounding** | 
   * Yuan Wang, Ya-Li Li, W U Eastman Z Y, Shengjin Wang
   * Tsinghua University
