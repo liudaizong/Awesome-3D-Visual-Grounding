@@ -14,11 +14,12 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
 > If you find our survey useful for your research, please consider citing:
 
 ```
-@article{liu2024survey,
+@article{liu2025survey,
   title={A Survey on Text-guided 3D Visual Grounding: Elements, Recent Advances, and Future Directions},
   author={Liu, Daizong and Liu, Yang and Huang, Wencan and Hu, Wei},
-  journal={arXiv preprint arXiv:2406.05785},
-  year={2024}
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2025},
+  publisher={IEEE}
 }
 ```
 
@@ -693,6 +694,11 @@ In the T-3DVG community, we've summarized existing T-3DVG methods in our survey 
   * Shanghai AI Laboratory
   * [EMNLP2025] https://arxiv.org/abs/2502.01401
   * LLMs-based, training-free, advantages on accuracy and grounding cost
+* **Reasoning Matters for 3D Visual Grounding** | 
+  * Hsiang-Wei Huang, Kuang-Ming Chen, Wenhao Chai, Cheng-Yen Yang, Jen-Hao Cheng, Jenq-Neng Hwang
+  * University of Washington
+  * [Arxiv2026] https://arxiv.org/abs/2601.08811
+  * LLM-based #
 
 ## Outdoor-Scenes
 * **Language Prompt for Autonomous Driving** | [Github](https://github.com/wudongming97/Prompt4Driving)
